@@ -1,0 +1,5999 @@
+{
+  "schema_version": "0.3",
+  "source": "source.pptx",
+  "template": "template.json",
+  "source_sha256": "1b8883114486c69dff706e9c4fd9382727c4506c2cfa3ec34f86987f1e852f2f",
+  "total_slides": 29,
+  "partial": true,
+  "slides": [
+    {
+      "slide_id": "s1",
+      "semantics": "semantics/s1.json",
+      "preview": "previews/s1.png",
+      "components": [
+        {
+          "id": "title_block",
+          "type": "title_block",
+          "members": [
+            "s1_o381"
+          ],
+          "slots": [
+            {
+              "object_id": "s1_o381",
+              "role": "title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "speaker_block",
+          "type": "speaker_block",
+          "members": [
+            "s1_o383"
+          ],
+          "slots": [
+            {
+              "object_id": "s1_o383",
+              "role": "speaker_name_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "logo_vk_workspace",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout1_o82"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout1_o82"
+          ]
+        },
+        {
+          "id": "logo_vk_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout1_o83"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout1_o83"
+          ]
+        },
+        {
+          "id": "top_master_ticks",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "bottom_master_ticks",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "top_layout_ticks",
+          "type": "decoration",
+          "members": [
+            "master1_layout1_o56",
+            "master1_layout1_o57",
+            "master1_layout1_o58",
+            "master1_layout1_o59",
+            "master1_layout1_o60",
+            "master1_layout1_o61",
+            "master1_layout1_o62",
+            "master1_layout1_o63",
+            "master1_layout1_o64",
+            "master1_layout1_o65",
+            "master1_layout1_o66",
+            "master1_layout1_o67",
+            "master1_layout1_o68",
+            "master1_layout1_o69",
+            "master1_layout1_o70",
+            "master1_layout1_o71",
+            "master1_layout1_o72",
+            "master1_layout1_o73",
+            "master1_layout1_o74"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout1_o56",
+            "master1_layout1_o57",
+            "master1_layout1_o58",
+            "master1_layout1_o59",
+            "master1_layout1_o60",
+            "master1_layout1_o61",
+            "master1_layout1_o62",
+            "master1_layout1_o63",
+            "master1_layout1_o64",
+            "master1_layout1_o65",
+            "master1_layout1_o66",
+            "master1_layout1_o67",
+            "master1_layout1_o68",
+            "master1_layout1_o69",
+            "master1_layout1_o70",
+            "master1_layout1_o71",
+            "master1_layout1_o72",
+            "master1_layout1_o73",
+            "master1_layout1_o74"
+          ]
+        },
+        {
+          "id": "layout_background_decoration",
+          "type": "decoration",
+          "members": [
+            "master1_layout1_o77",
+            "master1_layout1_o78",
+            "master1_layout1_o79",
+            "master1_layout1_o80",
+            "master1_layout1_o81"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout1_o77",
+            "master1_layout1_o78",
+            "master1_layout1_o79",
+            "master1_layout1_o80",
+            "master1_layout1_o81"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": true,
+      "unassigned": [
+        "s1_o382"
+      ],
+      "warnings": []
+    },
+    {
+      "slide_id": "s2",
+      "semantics": "semantics/s2.json",
+      "preview": "previews/s2.png",
+      "components": [
+        {
+          "id": "title",
+          "type": "title",
+          "members": [
+            "s2_o388"
+          ],
+          "slots": [
+            {
+              "object_id": "s2_o388",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "agenda_item_1",
+          "type": "agenda_item",
+          "members": [
+            "s2_o389",
+            "s2_o394"
+          ],
+          "slots": [
+            {
+              "object_id": "s2_o389",
+              "role": "agenda_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s2_o394",
+              "role": "agenda_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "agenda_item_2",
+          "type": "agenda_item",
+          "members": [
+            "s2_o390",
+            "s2_o395"
+          ],
+          "slots": [
+            {
+              "object_id": "s2_o390",
+              "role": "agenda_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s2_o395",
+              "role": "agenda_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "agenda_item_3",
+          "type": "agenda_item",
+          "members": [
+            "s2_o391",
+            "s2_o396"
+          ],
+          "slots": [
+            {
+              "object_id": "s2_o391",
+              "role": "agenda_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s2_o396",
+              "role": "agenda_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "agenda_item_4",
+          "type": "agenda_item",
+          "members": [
+            "s2_o392",
+            "s2_o397"
+          ],
+          "slots": [
+            {
+              "object_id": "s2_o392",
+              "role": "agenda_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s2_o397",
+              "role": "agenda_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "agenda_item_5",
+          "type": "agenda_item",
+          "members": [
+            "s2_o393",
+            "s2_o398"
+          ],
+          "slots": [
+            {
+              "object_id": "s2_o393",
+              "role": "agenda_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s2_o398",
+              "role": "agenda_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "logo_bottom_left",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout2_o110"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout2_o110"
+          ]
+        },
+        {
+          "id": "logo_bottom_right",
+          "type": "logo",
+          "members": [
+            "master1_layout2_o112"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout2_o112"
+          ]
+        },
+        {
+          "id": "top_decoration",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_layout2_o89",
+            "master1_layout2_o90",
+            "master1_layout2_o91",
+            "master1_layout2_o92",
+            "master1_layout2_o93",
+            "master1_layout2_o94",
+            "master1_layout2_o95",
+            "master1_layout2_o96",
+            "master1_layout2_o97",
+            "master1_layout2_o98",
+            "master1_layout2_o99",
+            "master1_layout2_o100",
+            "master1_layout2_o101",
+            "master1_layout2_o102",
+            "master1_layout2_o103",
+            "master1_layout2_o104",
+            "master1_layout2_o105",
+            "master1_layout2_o106",
+            "master1_layout2_o107",
+            "master1_layout2_o109"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_layout2_o89",
+            "master1_layout2_o90",
+            "master1_layout2_o91",
+            "master1_layout2_o92",
+            "master1_layout2_o93",
+            "master1_layout2_o94",
+            "master1_layout2_o95",
+            "master1_layout2_o96",
+            "master1_layout2_o97",
+            "master1_layout2_o98",
+            "master1_layout2_o99",
+            "master1_layout2_o100",
+            "master1_layout2_o101",
+            "master1_layout2_o102",
+            "master1_layout2_o103",
+            "master1_layout2_o104",
+            "master1_layout2_o105",
+            "master1_layout2_o106",
+            "master1_layout2_o107",
+            "master1_layout2_o109"
+          ]
+        },
+        {
+          "id": "bottom_decoration",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52",
+            "master1_layout2_o85",
+            "master1_layout2_o86",
+            "master1_layout2_o87",
+            "master1_layout2_o111"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52",
+            "master1_layout2_o85",
+            "master1_layout2_o86",
+            "master1_layout2_o87",
+            "master1_layout2_o111"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": true,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s3",
+      "semantics": "semantics/s3.json",
+      "preview": "previews/s3.png",
+      "components": [
+        {
+          "id": "title_block",
+          "type": "title",
+          "members": [
+            "s3_o404"
+          ],
+          "slots": [
+            {
+              "object_id": "s3_o404",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "category_badge",
+          "type": "label",
+          "members": [
+            "s3_o417"
+          ],
+          "slots": [
+            {
+              "object_id": "s3_o417",
+              "role": "category_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "feature_item_1",
+          "type": "feature_item",
+          "members": [
+            "s3_o408",
+            "s3_o409",
+            "s3_o405"
+          ],
+          "slots": [
+            {
+              "object_id": "s3_o405",
+              "role": "feature_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s3_o408",
+            "s3_o409"
+          ]
+        },
+        {
+          "id": "feature_item_2",
+          "type": "feature_item",
+          "members": [
+            "s3_o411",
+            "s3_o412",
+            "s3_o406"
+          ],
+          "slots": [
+            {
+              "object_id": "s3_o406",
+              "role": "feature_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s3_o411",
+            "s3_o412"
+          ]
+        },
+        {
+          "id": "note_card",
+          "type": "note_card",
+          "members": [
+            "s3_o413",
+            "s3_o414",
+            "s3_o415",
+            "s3_o416"
+          ],
+          "slots": [
+            {
+              "object_id": "s3_o414",
+              "role": "note_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s3_o413",
+            "s3_o415",
+            "s3_o416"
+          ]
+        },
+        {
+          "id": "logo",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout3_o116"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout3_o116"
+          ]
+        },
+        {
+          "id": "background_decoration",
+          "type": "background",
+          "members": [
+            "master1_layout3_o114"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout3_o114"
+          ]
+        },
+        {
+          "id": "master_lines_top",
+          "type": "decorative_lines",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "master_lines_bottom",
+          "type": "decorative_lines",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": true,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s4",
+      "semantics": "semantics/s4.json",
+      "preview": "previews/s4.png",
+      "components": [
+        {
+          "id": "title",
+          "type": "title",
+          "members": [
+            "s4_o423"
+          ],
+          "slots": [
+            {
+              "object_id": "s4_o423",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "section_heading",
+          "type": "heading",
+          "members": [
+            "s4_o436"
+          ],
+          "slots": [
+            {
+              "object_id": "s4_o436",
+              "role": "section_heading",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "list_item_1",
+          "type": "content_card",
+          "members": [
+            "s4_o425",
+            "s4_o426",
+            "s4_o424"
+          ],
+          "slots": [
+            {
+              "object_id": "s4_o426",
+              "role": "item_icon",
+              "content_type": "image",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s4_o424",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s4_o425"
+          ]
+        },
+        {
+          "id": "list_item_2",
+          "type": "content_card",
+          "members": [
+            "s4_o428",
+            "s4_o429",
+            "s4_o427"
+          ],
+          "slots": [
+            {
+              "object_id": "s4_o429",
+              "role": "item_icon",
+              "content_type": "image",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s4_o427",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s4_o428"
+          ]
+        },
+        {
+          "id": "list_item_3",
+          "type": "content_card",
+          "members": [
+            "s4_o431",
+            "s4_o432",
+            "s4_o430"
+          ],
+          "slots": [
+            {
+              "object_id": "s4_o432",
+              "role": "item_icon",
+              "content_type": "image",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s4_o430",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s4_o431"
+          ]
+        },
+        {
+          "id": "list_item_4",
+          "type": "content_card",
+          "members": [
+            "s4_o434",
+            "s4_o435",
+            "s4_o433"
+          ],
+          "slots": [
+            {
+              "object_id": "s4_o435",
+              "role": "item_icon",
+              "content_type": "image",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s4_o433",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s4_o434"
+          ]
+        },
+        {
+          "id": "logo_vk",
+          "type": "logo",
+          "members": [
+            "master1_layout4_o141",
+            "master1_o53"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout4_o141",
+            "master1_o53"
+          ]
+        },
+        {
+          "id": "logo_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout4_o146"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout4_o146"
+          ]
+        },
+        {
+          "id": "decoration_ring",
+          "type": "decoration",
+          "members": [
+            "master1_layout4_o119"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout4_o119"
+          ]
+        },
+        {
+          "id": "decoration_topright",
+          "type": "decoration",
+          "members": [
+            "master1_layout4_o142"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout4_o142"
+          ]
+        },
+        {
+          "id": "decoration_bottombar",
+          "type": "decoration",
+          "members": [
+            "master1_layout4_o118"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout4_o118"
+          ]
+        },
+        {
+          "id": "decoration_shapes",
+          "type": "decoration",
+          "members": [
+            "master1_layout4_o143",
+            "master1_layout4_o144",
+            "master1_layout4_o145"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout4_o143",
+            "master1_layout4_o144",
+            "master1_layout4_o145"
+          ]
+        },
+        {
+          "id": "decoration_lines_top",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "decoration_lines_bottom",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "decoration_lines_layout",
+          "type": "decoration",
+          "members": [
+            "master1_layout4_o121",
+            "master1_layout4_o122",
+            "master1_layout4_o123",
+            "master1_layout4_o124",
+            "master1_layout4_o125",
+            "master1_layout4_o126",
+            "master1_layout4_o127",
+            "master1_layout4_o128",
+            "master1_layout4_o129",
+            "master1_layout4_o130",
+            "master1_layout4_o131",
+            "master1_layout4_o132",
+            "master1_layout4_o133",
+            "master1_layout4_o134",
+            "master1_layout4_o135",
+            "master1_layout4_o136",
+            "master1_layout4_o137",
+            "master1_layout4_o138",
+            "master1_layout4_o139"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout4_o121",
+            "master1_layout4_o122",
+            "master1_layout4_o123",
+            "master1_layout4_o124",
+            "master1_layout4_o125",
+            "master1_layout4_o126",
+            "master1_layout4_o127",
+            "master1_layout4_o128",
+            "master1_layout4_o129",
+            "master1_layout4_o130",
+            "master1_layout4_o131",
+            "master1_layout4_o132",
+            "master1_layout4_o133",
+            "master1_layout4_o134",
+            "master1_layout4_o135",
+            "master1_layout4_o136",
+            "master1_layout4_o137",
+            "master1_layout4_o138",
+            "master1_layout4_o139"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": false,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s5",
+      "semantics": "semantics/s5.json",
+      "preview": "previews/s5.png",
+      "components": [
+        {
+          "id": "title_1",
+          "type": "title",
+          "members": [
+            "s5_o441"
+          ],
+          "slots": [
+            {
+              "object_id": "s5_o441",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_1",
+          "type": "content_card",
+          "members": [
+            "s5_o442",
+            "s5_o444",
+            "s5_o445"
+          ],
+          "slots": [
+            {
+              "object_id": "s5_o442",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s5_o442",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s5_o444",
+            "s5_o445"
+          ]
+        },
+        {
+          "id": "card_2",
+          "type": "content_card",
+          "members": [
+            "s5_o446",
+            "s5_o448",
+            "s5_o449"
+          ],
+          "slots": [
+            {
+              "object_id": "s5_o446",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s5_o446",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s5_o448",
+            "s5_o449"
+          ]
+        },
+        {
+          "id": "card_3",
+          "type": "content_card",
+          "members": [
+            "s5_o450",
+            "s5_o452",
+            "s5_o453"
+          ],
+          "slots": [
+            {
+              "object_id": "s5_o450",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s5_o450",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s5_o452",
+            "s5_o453"
+          ]
+        },
+        {
+          "id": "logo_1",
+          "type": "logo",
+          "members": [
+            "master1_o53"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53"
+          ]
+        },
+        {
+          "id": "logo_2",
+          "type": "logo",
+          "members": [
+            "master1_layout3_o116"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout3_o116"
+          ]
+        },
+        {
+          "id": "decoration_1",
+          "type": "decoration",
+          "members": [
+            "master1_layout3_o114",
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout3_o114",
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": false,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s6",
+      "semantics": "semantics/s6.json",
+      "preview": "previews/s6.png",
+      "components": [
+        {
+          "id": "slide_title",
+          "type": "title",
+          "members": [
+            "s6_o459"
+          ],
+          "slots": [
+            {
+              "object_id": "s6_o459",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_1",
+          "type": "content_card",
+          "members": [
+            "s6_o462",
+            "s6_o464",
+            "s6_o463"
+          ],
+          "slots": [
+            {
+              "object_id": "s6_o462",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s6_o464",
+              "role": "card_icon",
+              "content_type": "image",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s6_o463",
+              "role": "card_label",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_2",
+          "type": "content_card",
+          "members": [
+            "s6_o461",
+            "s6_o466",
+            "s6_o465"
+          ],
+          "slots": [
+            {
+              "object_id": "s6_o461",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s6_o466",
+              "role": "card_icon",
+              "content_type": "image",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s6_o465",
+              "role": "card_label",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_3",
+          "type": "content_card",
+          "members": [
+            "s6_o460",
+            "s6_o468",
+            "s6_o467"
+          ],
+          "slots": [
+            {
+              "object_id": "s6_o460",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s6_o468",
+              "role": "card_icon",
+              "content_type": "image",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s6_o467",
+              "role": "card_label",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "logo_vk",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout5_o172"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout5_o172"
+          ]
+        },
+        {
+          "id": "logo_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout5_o173"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout5_o173"
+          ]
+        },
+        {
+          "id": "decorative_patterns",
+          "type": "decoration",
+          "members": [
+            "master1_layout5_o148",
+            "master1_layout5_o149",
+            "master1_layout5_o150"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout5_o148",
+            "master1_layout5_o149",
+            "master1_layout5_o150"
+          ]
+        },
+        {
+          "id": "decorative_lines",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52",
+            "master1_layout5_o152",
+            "master1_layout5_o153",
+            "master1_layout5_o154",
+            "master1_layout5_o155",
+            "master1_layout5_o156",
+            "master1_layout5_o157",
+            "master1_layout5_o158",
+            "master1_layout5_o159",
+            "master1_layout5_o160",
+            "master1_layout5_o161",
+            "master1_layout5_o162",
+            "master1_layout5_o163",
+            "master1_layout5_o164",
+            "master1_layout5_o165",
+            "master1_layout5_o166",
+            "master1_layout5_o167",
+            "master1_layout5_o168",
+            "master1_layout5_o169",
+            "master1_layout5_o170"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52",
+            "master1_layout5_o152",
+            "master1_layout5_o153",
+            "master1_layout5_o154",
+            "master1_layout5_o155",
+            "master1_layout5_o156",
+            "master1_layout5_o157",
+            "master1_layout5_o158",
+            "master1_layout5_o159",
+            "master1_layout5_o160",
+            "master1_layout5_o161",
+            "master1_layout5_o162",
+            "master1_layout5_o163",
+            "master1_layout5_o164",
+            "master1_layout5_o165",
+            "master1_layout5_o166",
+            "master1_layout5_o167",
+            "master1_layout5_o168",
+            "master1_layout5_o169",
+            "master1_layout5_o170"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": false,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s7",
+      "semantics": "semantics/s7.json",
+      "preview": "previews/s7.png",
+      "components": [
+        {
+          "id": "title",
+          "type": "title",
+          "members": [
+            "s7_o474"
+          ],
+          "slots": [
+            {
+              "object_id": "s7_o474",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_1",
+          "type": "content_card",
+          "members": [
+            "s7_o475"
+          ],
+          "slots": [
+            {
+              "object_id": "s7_o475",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s7_o475",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_2",
+          "type": "content_card",
+          "members": [
+            "s7_o476"
+          ],
+          "slots": [
+            {
+              "object_id": "s7_o476",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s7_o476",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_3",
+          "type": "content_card",
+          "members": [
+            "s7_o477"
+          ],
+          "slots": [
+            {
+              "object_id": "s7_o477",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s7_o477",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_4",
+          "type": "content_card",
+          "members": [
+            "s7_o478"
+          ],
+          "slots": [
+            {
+              "object_id": "s7_o478",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s7_o478",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_5",
+          "type": "content_card",
+          "members": [
+            "s7_o479"
+          ],
+          "slots": [
+            {
+              "object_id": "s7_o479",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s7_o479",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_6",
+          "type": "content_card",
+          "members": [
+            "s7_o480"
+          ],
+          "slots": [
+            {
+              "object_id": "s7_o480",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s7_o480",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "logo_vk",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout6_o196"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout6_o196"
+          ]
+        },
+        {
+          "id": "logo_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout6_o201"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout6_o201"
+          ]
+        },
+        {
+          "id": "decoration_top",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_layout6_o176",
+            "master1_layout6_o177",
+            "master1_layout6_o178",
+            "master1_layout6_o179",
+            "master1_layout6_o180",
+            "master1_layout6_o181",
+            "master1_layout6_o182",
+            "master1_layout6_o183",
+            "master1_layout6_o184",
+            "master1_layout6_o185",
+            "master1_layout6_o186",
+            "master1_layout6_o187",
+            "master1_layout6_o188",
+            "master1_layout6_o189",
+            "master1_layout6_o190",
+            "master1_layout6_o191",
+            "master1_layout6_o192",
+            "master1_layout6_o193",
+            "master1_layout6_o194",
+            "master1_layout6_o197",
+            "master1_layout6_o198",
+            "master1_layout6_o199",
+            "master1_layout6_o200"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_layout6_o176",
+            "master1_layout6_o177",
+            "master1_layout6_o178",
+            "master1_layout6_o179",
+            "master1_layout6_o180",
+            "master1_layout6_o181",
+            "master1_layout6_o182",
+            "master1_layout6_o183",
+            "master1_layout6_o184",
+            "master1_layout6_o185",
+            "master1_layout6_o186",
+            "master1_layout6_o187",
+            "master1_layout6_o188",
+            "master1_layout6_o189",
+            "master1_layout6_o190",
+            "master1_layout6_o191",
+            "master1_layout6_o192",
+            "master1_layout6_o193",
+            "master1_layout6_o194",
+            "master1_layout6_o197",
+            "master1_layout6_o198",
+            "master1_layout6_o199",
+            "master1_layout6_o200"
+          ]
+        },
+        {
+          "id": "decoration_bottom",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": false,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s8",
+      "semantics": "semantics/s8.json",
+      "preview": "previews/s8.png",
+      "components": [
+        {
+          "id": "slide_title",
+          "type": "title",
+          "members": [
+            "s8_o486"
+          ],
+          "slots": [
+            {
+              "object_id": "s8_o486",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_1",
+          "type": "content_card",
+          "members": [
+            "s8_o488",
+            "s8_o487",
+            "s8_o489"
+          ],
+          "slots": [
+            {
+              "object_id": "s8_o488",
+              "role": "card_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o487",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o489",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_2",
+          "type": "content_card",
+          "members": [
+            "s8_o491",
+            "s8_o490",
+            "s8_o492"
+          ],
+          "slots": [
+            {
+              "object_id": "s8_o491",
+              "role": "card_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o490",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o492",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_3",
+          "type": "content_card",
+          "members": [
+            "s8_o500",
+            "s8_o499",
+            "s8_o501"
+          ],
+          "slots": [
+            {
+              "object_id": "s8_o500",
+              "role": "card_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o499",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o501",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_4",
+          "type": "content_card",
+          "members": [
+            "s8_o494",
+            "s8_o493",
+            "s8_o495"
+          ],
+          "slots": [
+            {
+              "object_id": "s8_o494",
+              "role": "card_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o493",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o495",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_5",
+          "type": "content_card",
+          "members": [
+            "s8_o497",
+            "s8_o496",
+            "s8_o498"
+          ],
+          "slots": [
+            {
+              "object_id": "s8_o497",
+              "role": "card_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o496",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o498",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_6",
+          "type": "content_card",
+          "members": [
+            "s8_o503",
+            "s8_o502",
+            "s8_o504"
+          ],
+          "slots": [
+            {
+              "object_id": "s8_o503",
+              "role": "card_number",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o502",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s8_o504",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "logo_vk_workspace",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout6_o196"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout6_o196"
+          ]
+        },
+        {
+          "id": "logo_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout6_o201"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout6_o201"
+          ]
+        },
+        {
+          "id": "decoration_top_right",
+          "type": "decoration",
+          "members": [
+            "master1_layout6_o197",
+            "master1_layout6_o198",
+            "master1_layout6_o199",
+            "master1_layout6_o200"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout6_o197",
+            "master1_layout6_o198",
+            "master1_layout6_o199",
+            "master1_layout6_o200"
+          ]
+        },
+        {
+          "id": "decoration_grid_lines",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52",
+            "master1_layout6_o176",
+            "master1_layout6_o177",
+            "master1_layout6_o178",
+            "master1_layout6_o179",
+            "master1_layout6_o180",
+            "master1_layout6_o181",
+            "master1_layout6_o182",
+            "master1_layout6_o183",
+            "master1_layout6_o184",
+            "master1_layout6_o185",
+            "master1_layout6_o186",
+            "master1_layout6_o187",
+            "master1_layout6_o188",
+            "master1_layout6_o189",
+            "master1_layout6_o190",
+            "master1_layout6_o191",
+            "master1_layout6_o192",
+            "master1_layout6_o193",
+            "master1_layout6_o194"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52",
+            "master1_layout6_o176",
+            "master1_layout6_o177",
+            "master1_layout6_o178",
+            "master1_layout6_o179",
+            "master1_layout6_o180",
+            "master1_layout6_o181",
+            "master1_layout6_o182",
+            "master1_layout6_o183",
+            "master1_layout6_o184",
+            "master1_layout6_o185",
+            "master1_layout6_o186",
+            "master1_layout6_o187",
+            "master1_layout6_o188",
+            "master1_layout6_o189",
+            "master1_layout6_o190",
+            "master1_layout6_o191",
+            "master1_layout6_o192",
+            "master1_layout6_o193",
+            "master1_layout6_o194"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": true,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s9",
+      "semantics": "semantics/s9.json",
+      "preview": "previews/s9.png",
+      "components": [
+        {
+          "id": "title_1",
+          "type": "title",
+          "members": [
+            "s9_o510"
+          ],
+          "slots": [
+            {
+              "object_id": "s9_o510",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_1",
+          "type": "content_card",
+          "members": [
+            "s9_o511",
+            "s9_o520",
+            "s9_o521"
+          ],
+          "slots": [
+            {
+              "object_id": "s9_o511",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s9_o511",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s9_o520",
+            "s9_o521"
+          ]
+        },
+        {
+          "id": "card_2",
+          "type": "content_card",
+          "members": [
+            "s9_o513",
+            "s9_o523",
+            "s9_o524"
+          ],
+          "slots": [
+            {
+              "object_id": "s9_o513",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s9_o513",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s9_o523",
+            "s9_o524"
+          ]
+        },
+        {
+          "id": "card_3",
+          "type": "content_card",
+          "members": [
+            "s9_o515",
+            "s9_o526",
+            "s9_o527"
+          ],
+          "slots": [
+            {
+              "object_id": "s9_o515",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s9_o515",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s9_o526",
+            "s9_o527"
+          ]
+        },
+        {
+          "id": "card_4",
+          "type": "content_card",
+          "members": [
+            "s9_o517",
+            "s9_o529",
+            "s9_o530"
+          ],
+          "slots": [
+            {
+              "object_id": "s9_o517",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s9_o517",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s9_o529",
+            "s9_o530"
+          ]
+        },
+        {
+          "id": "card_5",
+          "type": "content_card",
+          "members": [
+            "s9_o512",
+            "s9_o532",
+            "s9_o533"
+          ],
+          "slots": [
+            {
+              "object_id": "s9_o512",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s9_o512",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s9_o532",
+            "s9_o533"
+          ]
+        },
+        {
+          "id": "card_6",
+          "type": "content_card",
+          "members": [
+            "s9_o514",
+            "s9_o535",
+            "s9_o536"
+          ],
+          "slots": [
+            {
+              "object_id": "s9_o514",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s9_o514",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s9_o535",
+            "s9_o536"
+          ]
+        },
+        {
+          "id": "card_7",
+          "type": "content_card",
+          "members": [
+            "s9_o516",
+            "s9_o538",
+            "s9_o539"
+          ],
+          "slots": [
+            {
+              "object_id": "s9_o516",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s9_o516",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s9_o538",
+            "s9_o539"
+          ]
+        },
+        {
+          "id": "card_8",
+          "type": "content_card",
+          "members": [
+            "s9_o518",
+            "s9_o541",
+            "s9_o542"
+          ],
+          "slots": [
+            {
+              "object_id": "s9_o518",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s9_o518",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s9_o541",
+            "s9_o542"
+          ]
+        },
+        {
+          "id": "logo_vk",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout6_o196"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout6_o196"
+          ]
+        },
+        {
+          "id": "logo_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout6_o201"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout6_o201"
+          ]
+        },
+        {
+          "id": "decoration_corner",
+          "type": "decoration",
+          "members": [
+            "master1_layout6_o197",
+            "master1_layout6_o198",
+            "master1_layout6_o199",
+            "master1_layout6_o200"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout6_o197",
+            "master1_layout6_o198",
+            "master1_layout6_o199",
+            "master1_layout6_o200"
+          ]
+        },
+        {
+          "id": "decoration_lines",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52",
+            "master1_layout6_o176",
+            "master1_layout6_o177",
+            "master1_layout6_o178",
+            "master1_layout6_o179",
+            "master1_layout6_o180",
+            "master1_layout6_o181",
+            "master1_layout6_o182",
+            "master1_layout6_o183",
+            "master1_layout6_o184",
+            "master1_layout6_o185",
+            "master1_layout6_o186",
+            "master1_layout6_o187",
+            "master1_layout6_o188",
+            "master1_layout6_o189",
+            "master1_layout6_o190",
+            "master1_layout6_o191",
+            "master1_layout6_o192",
+            "master1_layout6_o193",
+            "master1_layout6_o194"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52",
+            "master1_layout6_o176",
+            "master1_layout6_o177",
+            "master1_layout6_o178",
+            "master1_layout6_o179",
+            "master1_layout6_o180",
+            "master1_layout6_o181",
+            "master1_layout6_o182",
+            "master1_layout6_o183",
+            "master1_layout6_o184",
+            "master1_layout6_o185",
+            "master1_layout6_o186",
+            "master1_layout6_o187",
+            "master1_layout6_o188",
+            "master1_layout6_o189",
+            "master1_layout6_o190",
+            "master1_layout6_o191",
+            "master1_layout6_o192",
+            "master1_layout6_o193",
+            "master1_layout6_o194"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": true,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s10",
+      "semantics": "semantics/s10.json",
+      "preview": "previews/s10.png",
+      "components": [
+        {
+          "id": "title",
+          "type": "title",
+          "members": [
+            "s10_o547"
+          ],
+          "slots": [
+            {
+              "object_id": "s10_o547",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_1",
+          "type": "content_card",
+          "members": [
+            "s10_o548",
+            "s10_o550",
+            "s10_o551"
+          ],
+          "slots": [
+            {
+              "object_id": "s10_o548",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s10_o548",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s10_o550",
+            "s10_o551"
+          ]
+        },
+        {
+          "id": "card_2",
+          "type": "content_card",
+          "members": [
+            "s10_o552",
+            "s10_o554",
+            "s10_o555"
+          ],
+          "slots": [
+            {
+              "object_id": "s10_o552",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s10_o552",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s10_o554",
+            "s10_o555"
+          ]
+        },
+        {
+          "id": "card_3",
+          "type": "content_card",
+          "members": [
+            "s10_o556",
+            "s10_o558",
+            "s10_o559"
+          ],
+          "slots": [
+            {
+              "object_id": "s10_o556",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s10_o556",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": [
+            "s10_o558",
+            "s10_o559"
+          ]
+        },
+        {
+          "id": "logo",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout3_o116"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout3_o116"
+          ]
+        },
+        {
+          "id": "background",
+          "type": "background",
+          "members": [
+            "master1_layout3_o114"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout3_o114"
+          ]
+        },
+        {
+          "id": "master_decoration",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": false,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s11",
+      "semantics": "semantics/s11.json",
+      "preview": "previews/s11.png",
+      "components": [
+        {
+          "id": "title",
+          "type": "title",
+          "members": [
+            "s11_o565"
+          ],
+          "slots": [
+            {
+              "object_id": "s11_o565",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "column_1",
+          "type": "checklist_column",
+          "members": [
+            "s11_o568",
+            "s11_o579",
+            "s11_o566",
+            "s11_o567",
+            "s11_o569",
+            "s11_o570",
+            "s11_o571",
+            "s11_o572",
+            "s11_o573",
+            "s11_o574",
+            "s11_o575",
+            "s11_o576",
+            "s11_o577",
+            "s11_o578"
+          ],
+          "slots": [
+            {
+              "object_id": "s11_o568",
+              "role": "column_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o579",
+              "role": "column_date",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o566",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o570",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o573",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o576",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s11_o567",
+            "s11_o569",
+            "s11_o571",
+            "s11_o572",
+            "s11_o574",
+            "s11_o575",
+            "s11_o577",
+            "s11_o578"
+          ]
+        },
+        {
+          "id": "column_2",
+          "type": "checklist_column",
+          "members": [
+            "s11_o582",
+            "s11_o593",
+            "s11_o580",
+            "s11_o581",
+            "s11_o583",
+            "s11_o584",
+            "s11_o585",
+            "s11_o586",
+            "s11_o587",
+            "s11_o588",
+            "s11_o589",
+            "s11_o590",
+            "s11_o591",
+            "s11_o592"
+          ],
+          "slots": [
+            {
+              "object_id": "s11_o582",
+              "role": "column_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o593",
+              "role": "column_date",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o580",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o584",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o587",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o590",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s11_o581",
+            "s11_o583",
+            "s11_o585",
+            "s11_o586",
+            "s11_o588",
+            "s11_o589",
+            "s11_o591",
+            "s11_o592"
+          ]
+        },
+        {
+          "id": "column_3",
+          "type": "checklist_column",
+          "members": [
+            "s11_o596",
+            "s11_o607",
+            "s11_o594",
+            "s11_o595",
+            "s11_o597",
+            "s11_o598",
+            "s11_o599",
+            "s11_o600",
+            "s11_o601",
+            "s11_o602",
+            "s11_o603",
+            "s11_o604",
+            "s11_o605",
+            "s11_o606"
+          ],
+          "slots": [
+            {
+              "object_id": "s11_o596",
+              "role": "column_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o607",
+              "role": "column_date",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o594",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o598",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o601",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s11_o604",
+              "role": "item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s11_o595",
+            "s11_o597",
+            "s11_o599",
+            "s11_o600",
+            "s11_o602",
+            "s11_o603",
+            "s11_o605",
+            "s11_o606"
+          ]
+        },
+        {
+          "id": "logo_vk",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout5_o172"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout5_o172"
+          ]
+        },
+        {
+          "id": "logo_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout5_o173"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout5_o173"
+          ]
+        },
+        {
+          "id": "decoration_top_master",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "decoration_bottom_master",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "decoration_top_layout",
+          "type": "decoration",
+          "members": [
+            "master1_layout5_o152",
+            "master1_layout5_o153",
+            "master1_layout5_o154",
+            "master1_layout5_o155",
+            "master1_layout5_o156",
+            "master1_layout5_o157",
+            "master1_layout5_o158",
+            "master1_layout5_o159",
+            "master1_layout5_o160",
+            "master1_layout5_o161",
+            "master1_layout5_o162",
+            "master1_layout5_o163",
+            "master1_layout5_o164",
+            "master1_layout5_o165",
+            "master1_layout5_o166",
+            "master1_layout5_o167",
+            "master1_layout5_o168",
+            "master1_layout5_o169",
+            "master1_layout5_o170"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout5_o152",
+            "master1_layout5_o153",
+            "master1_layout5_o154",
+            "master1_layout5_o155",
+            "master1_layout5_o156",
+            "master1_layout5_o157",
+            "master1_layout5_o158",
+            "master1_layout5_o159",
+            "master1_layout5_o160",
+            "master1_layout5_o161",
+            "master1_layout5_o162",
+            "master1_layout5_o163",
+            "master1_layout5_o164",
+            "master1_layout5_o165",
+            "master1_layout5_o166",
+            "master1_layout5_o167",
+            "master1_layout5_o168",
+            "master1_layout5_o169",
+            "master1_layout5_o170"
+          ]
+        },
+        {
+          "id": "decoration_corner",
+          "type": "decoration",
+          "members": [
+            "master1_layout5_o148",
+            "master1_layout5_o149",
+            "master1_layout5_o150"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout5_o148",
+            "master1_layout5_o149",
+            "master1_layout5_o150"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": false,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s12",
+      "semantics": "semantics/s12.json",
+      "preview": "previews/s12.png",
+      "components": [
+        {
+          "id": "slide_title",
+          "type": "title",
+          "members": [
+            "s12_o613"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o613",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "section_heading_1",
+          "type": "text_heading",
+          "members": [
+            "s12_o614"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o614",
+              "role": "section_heading",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "icon_item_1",
+          "type": "icon_text_item",
+          "members": [
+            "s12_o616",
+            "s12_o618",
+            "s12_o619"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o616",
+              "role": "item_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s12_o618",
+            "s12_o619"
+          ]
+        },
+        {
+          "id": "icon_item_2",
+          "type": "icon_text_item",
+          "members": [
+            "s12_o622",
+            "s12_o634",
+            "s12_o635"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o622",
+              "role": "item_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s12_o634",
+            "s12_o635"
+          ]
+        },
+        {
+          "id": "icon_item_3",
+          "type": "icon_text_item",
+          "members": [
+            "s12_o623",
+            "s12_o637",
+            "s12_o638"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o623",
+              "role": "item_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s12_o637",
+            "s12_o638"
+          ]
+        },
+        {
+          "id": "icon_item_4",
+          "type": "icon_text_item",
+          "members": [
+            "s12_o624",
+            "s12_o640",
+            "s12_o641"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o624",
+              "role": "item_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s12_o640",
+            "s12_o641"
+          ]
+        },
+        {
+          "id": "section_heading_2",
+          "type": "text_heading",
+          "members": [
+            "s12_o615"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o615",
+              "role": "section_heading",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "content_card_1",
+          "type": "content_card",
+          "members": [
+            "s12_o625"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o625",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "content_card_2",
+          "type": "content_card",
+          "members": [
+            "s12_o626"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o626",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "content_card_3",
+          "type": "content_card",
+          "members": [
+            "s12_o627"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o627",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "content_card_4",
+          "type": "content_card",
+          "members": [
+            "s12_o628"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o628",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "content_card_5",
+          "type": "content_card",
+          "members": [
+            "s12_o629"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o629",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "content_card_6",
+          "type": "content_card",
+          "members": [
+            "s12_o630"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o630",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "content_card_7",
+          "type": "content_card",
+          "members": [
+            "s12_o631"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o631",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "content_card_8",
+          "type": "content_card",
+          "members": [
+            "s12_o632"
+          ],
+          "slots": [
+            {
+              "object_id": "s12_o632",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "footer_logo_left",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout6_o196",
+            "s12_o620"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout6_o196",
+            "s12_o620"
+          ]
+        },
+        {
+          "id": "footer_logo_right",
+          "type": "logo",
+          "members": [
+            "master1_layout6_o201",
+            "s12_o621"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout6_o201",
+            "s12_o621"
+          ]
+        },
+        {
+          "id": "top_right_decoration",
+          "type": "decoration",
+          "members": [
+            "master1_layout6_o197",
+            "master1_layout6_o198",
+            "master1_layout6_o199",
+            "master1_layout6_o200"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout6_o197",
+            "master1_layout6_o198",
+            "master1_layout6_o199",
+            "master1_layout6_o200"
+          ]
+        },
+        {
+          "id": "master_decoration_top",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "master_decoration_bottom",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "layout_decoration_top",
+          "type": "decoration",
+          "members": [
+            "master1_layout6_o176",
+            "master1_layout6_o177",
+            "master1_layout6_o178",
+            "master1_layout6_o179",
+            "master1_layout6_o180",
+            "master1_layout6_o181",
+            "master1_layout6_o182",
+            "master1_layout6_o183",
+            "master1_layout6_o184",
+            "master1_layout6_o185",
+            "master1_layout6_o186",
+            "master1_layout6_o187",
+            "master1_layout6_o188",
+            "master1_layout6_o189",
+            "master1_layout6_o190",
+            "master1_layout6_o191",
+            "master1_layout6_o192",
+            "master1_layout6_o193",
+            "master1_layout6_o194"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout6_o176",
+            "master1_layout6_o177",
+            "master1_layout6_o178",
+            "master1_layout6_o179",
+            "master1_layout6_o180",
+            "master1_layout6_o181",
+            "master1_layout6_o182",
+            "master1_layout6_o183",
+            "master1_layout6_o184",
+            "master1_layout6_o185",
+            "master1_layout6_o186",
+            "master1_layout6_o187",
+            "master1_layout6_o188",
+            "master1_layout6_o189",
+            "master1_layout6_o190",
+            "master1_layout6_o191",
+            "master1_layout6_o192",
+            "master1_layout6_o193",
+            "master1_layout6_o194"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": true,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s13",
+      "semantics": "semantics/s13.json",
+      "preview": "previews/s13.png",
+      "components": [
+        {
+          "id": "title",
+          "type": "title",
+          "members": [
+            "s13_o647"
+          ],
+          "slots": [
+            {
+              "object_id": "s13_o647",
+              "role": "title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "goals_label",
+          "type": "section_label",
+          "members": [
+            "s13_o650"
+          ],
+          "slots": [
+            {
+              "object_id": "s13_o650",
+              "role": "section_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "solutions_label",
+          "type": "section_label",
+          "members": [
+            "s13_o654"
+          ],
+          "slots": [
+            {
+              "object_id": "s13_o654",
+              "role": "section_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "goal_item_1",
+          "type": "goal_item",
+          "members": [
+            "s13_o649",
+            "s13_o652",
+            "s13_o653"
+          ],
+          "slots": [
+            {
+              "object_id": "s13_o649",
+              "role": "goal_item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s13_o652",
+            "s13_o653"
+          ]
+        },
+        {
+          "id": "goal_item_2",
+          "type": "goal_item",
+          "members": [
+            "s13_o658",
+            "s13_o660",
+            "s13_o661"
+          ],
+          "slots": [
+            {
+              "object_id": "s13_o658",
+              "role": "goal_item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s13_o660",
+            "s13_o661"
+          ]
+        },
+        {
+          "id": "goal_item_3",
+          "type": "goal_item",
+          "members": [
+            "s13_o662",
+            "s13_o664",
+            "s13_o665"
+          ],
+          "slots": [
+            {
+              "object_id": "s13_o662",
+              "role": "goal_item_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s13_o664",
+            "s13_o665"
+          ]
+        },
+        {
+          "id": "solution_card_1",
+          "type": "solution_card",
+          "members": [
+            "s13_o648"
+          ],
+          "slots": [
+            {
+              "object_id": "s13_o648",
+              "role": "solution_card_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "solution_card_2",
+          "type": "solution_card",
+          "members": [
+            "s13_o655"
+          ],
+          "slots": [
+            {
+              "object_id": "s13_o655",
+              "role": "solution_card_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "solution_card_3",
+          "type": "solution_card",
+          "members": [
+            "s13_o656"
+          ],
+          "slots": [
+            {
+              "object_id": "s13_o656",
+              "role": "solution_card_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "solution_card_4",
+          "type": "solution_card",
+          "members": [
+            "s13_o657"
+          ],
+          "slots": [
+            {
+              "object_id": "s13_o657",
+              "role": "solution_card_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "background",
+          "type": "background",
+          "members": [
+            "master1_layout7_o203",
+            "master1_layout7_o204"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout7_o203",
+            "master1_layout7_o204"
+          ]
+        },
+        {
+          "id": "top_border",
+          "type": "decorative_border",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "bottom_border",
+          "type": "decorative_border",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "logo_vk_workspace",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout7_o206"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout7_o206"
+          ]
+        },
+        {
+          "id": "logo_vk_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout7_o207"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout7_o207"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": true,
+      "unassigned": [
+        "s13_o666"
+      ],
+      "warnings": []
+    },
+    {
+      "slide_id": "s14",
+      "semantics": "semantics/s14.json",
+      "preview": "previews/s14.png",
+      "components": [
+        {
+          "id": "title_1",
+          "type": "title",
+          "members": [
+            "s14_o672"
+          ],
+          "slots": [
+            {
+              "object_id": "s14_o672",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "table_1",
+          "type": "table",
+          "members": [
+            "s14_o673"
+          ],
+          "slots": [
+            {
+              "object_id": "s14_o673",
+              "role": "data_table",
+              "content_type": "table",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "top_decoration_1",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_layout8_o210",
+            "master1_layout8_o211",
+            "master1_layout8_o212",
+            "master1_layout8_o213",
+            "master1_layout8_o214",
+            "master1_layout8_o215",
+            "master1_layout8_o216",
+            "master1_layout8_o217",
+            "master1_layout8_o218",
+            "master1_layout8_o219",
+            "master1_layout8_o220",
+            "master1_layout8_o221",
+            "master1_layout8_o222",
+            "master1_layout8_o223",
+            "master1_layout8_o224",
+            "master1_layout8_o225",
+            "master1_layout8_o226",
+            "master1_layout8_o227",
+            "master1_layout8_o228"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32",
+            "master1_layout8_o210",
+            "master1_layout8_o211",
+            "master1_layout8_o212",
+            "master1_layout8_o213",
+            "master1_layout8_o214",
+            "master1_layout8_o215",
+            "master1_layout8_o216",
+            "master1_layout8_o217",
+            "master1_layout8_o218",
+            "master1_layout8_o219",
+            "master1_layout8_o220",
+            "master1_layout8_o221",
+            "master1_layout8_o222",
+            "master1_layout8_o223",
+            "master1_layout8_o224",
+            "master1_layout8_o225",
+            "master1_layout8_o226",
+            "master1_layout8_o227",
+            "master1_layout8_o228"
+          ]
+        },
+        {
+          "id": "bottom_decoration_1",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "top_right_decoration_1",
+          "type": "decoration",
+          "members": [
+            "master1_layout8_o230",
+            "master1_layout8_o231",
+            "master1_layout8_o232",
+            "master1_layout8_o233"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout8_o230",
+            "master1_layout8_o231",
+            "master1_layout8_o232",
+            "master1_layout8_o233"
+          ]
+        },
+        {
+          "id": "logo_1",
+          "type": "logo",
+          "members": [
+            "master1_o53"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": true,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s15",
+      "semantics": "semantics/s15.json",
+      "preview": "previews/s15.png",
+      "components": [
+        {
+          "id": "title",
+          "type": "title",
+          "members": [
+            "s15_o680"
+          ],
+          "slots": [
+            {
+              "object_id": "s15_o680",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_1",
+          "type": "content_card",
+          "members": [
+            "s15_o681"
+          ],
+          "slots": [
+            {
+              "object_id": "s15_o681",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s15_o681",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_2",
+          "type": "content_card",
+          "members": [
+            "s15_o682"
+          ],
+          "slots": [
+            {
+              "object_id": "s15_o682",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s15_o682",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_3",
+          "type": "content_card",
+          "members": [
+            "s15_o683"
+          ],
+          "slots": [
+            {
+              "object_id": "s15_o683",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s15_o683",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "note_band",
+          "type": "note",
+          "members": [
+            "s15_o679",
+            "s15_o685",
+            "s15_o684"
+          ],
+          "slots": [
+            {
+              "object_id": "s15_o685",
+              "role": "note_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s15_o684",
+              "role": "note_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s15_o679"
+          ]
+        },
+        {
+          "id": "logo",
+          "type": "logo",
+          "members": [
+            "master1_o53"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53"
+          ]
+        },
+        {
+          "id": "decorative_top_right",
+          "type": "decoration",
+          "members": [
+            "master1_layout8_o230",
+            "master1_layout8_o231",
+            "master1_layout8_o232",
+            "master1_layout8_o233"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout8_o230",
+            "master1_layout8_o231",
+            "master1_layout8_o232",
+            "master1_layout8_o233"
+          ]
+        },
+        {
+          "id": "decorative_grid_top",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "decorative_grid_bottom",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "decorative_grid_layout",
+          "type": "decoration",
+          "members": [
+            "master1_layout8_o210",
+            "master1_layout8_o211",
+            "master1_layout8_o212",
+            "master1_layout8_o213",
+            "master1_layout8_o214",
+            "master1_layout8_o215",
+            "master1_layout8_o216",
+            "master1_layout8_o217",
+            "master1_layout8_o218",
+            "master1_layout8_o219",
+            "master1_layout8_o220",
+            "master1_layout8_o221",
+            "master1_layout8_o222",
+            "master1_layout8_o223",
+            "master1_layout8_o224",
+            "master1_layout8_o225",
+            "master1_layout8_o226",
+            "master1_layout8_o227",
+            "master1_layout8_o228"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout8_o210",
+            "master1_layout8_o211",
+            "master1_layout8_o212",
+            "master1_layout8_o213",
+            "master1_layout8_o214",
+            "master1_layout8_o215",
+            "master1_layout8_o216",
+            "master1_layout8_o217",
+            "master1_layout8_o218",
+            "master1_layout8_o219",
+            "master1_layout8_o220",
+            "master1_layout8_o221",
+            "master1_layout8_o222",
+            "master1_layout8_o223",
+            "master1_layout8_o224",
+            "master1_layout8_o225",
+            "master1_layout8_o226",
+            "master1_layout8_o227",
+            "master1_layout8_o228"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": false,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s16",
+      "semantics": "semantics/s16.json",
+      "preview": "previews/s16.png",
+      "components": [
+        {
+          "id": "slide_title",
+          "type": "title",
+          "members": [
+            "s16_o703"
+          ],
+          "slots": [
+            {
+              "object_id": "s16_o703",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "slide_description",
+          "type": "description",
+          "members": [
+            "s16_o702"
+          ],
+          "slots": [
+            {
+              "object_id": "s16_o702",
+              "role": "slide_description",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "card_1",
+          "type": "content_card",
+          "members": [
+            "s16_o691",
+            "s16_o692",
+            "s16_o693",
+            "s16_o694"
+          ],
+          "slots": [
+            {
+              "object_id": "s16_o693",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s16_o694",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s16_o691",
+            "s16_o692"
+          ]
+        },
+        {
+          "id": "card_2",
+          "type": "content_card",
+          "members": [
+            "s16_o695",
+            "s16_o696",
+            "s16_o697",
+            "s16_o698"
+          ],
+          "slots": [
+            {
+              "object_id": "s16_o697",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s16_o698",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s16_o695",
+            "s16_o696"
+          ]
+        },
+        {
+          "id": "card_3",
+          "type": "content_card",
+          "members": [
+            "s16_o699",
+            "s16_o700",
+            "s16_o701"
+          ],
+          "slots": [
+            {
+              "object_id": "s16_o700",
+              "role": "card_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s16_o701",
+              "role": "card_body",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": [
+            "s16_o699"
+          ]
+        },
+        {
+          "id": "logo_vk_workspace",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout5_o172"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout5_o172"
+          ]
+        },
+        {
+          "id": "logo_vk_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout5_o173"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout5_o173"
+          ]
+        },
+        {
+          "id": "decorative_patterns",
+          "type": "decoration",
+          "members": [
+            "master1_layout5_o148",
+            "master1_layout5_o149",
+            "master1_layout5_o150"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout5_o148",
+            "master1_layout5_o149",
+            "master1_layout5_o150"
+          ]
+        },
+        {
+          "id": "decorative_connectors_master_top",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "decorative_connectors_master_bottom",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "decorative_connectors_layout",
+          "type": "decoration",
+          "members": [
+            "master1_layout5_o152",
+            "master1_layout5_o153",
+            "master1_layout5_o154",
+            "master1_layout5_o155",
+            "master1_layout5_o156",
+            "master1_layout5_o157",
+            "master1_layout5_o158",
+            "master1_layout5_o159",
+            "master1_layout5_o160",
+            "master1_layout5_o161",
+            "master1_layout5_o162",
+            "master1_layout5_o163",
+            "master1_layout5_o164",
+            "master1_layout5_o165",
+            "master1_layout5_o166",
+            "master1_layout5_o167",
+            "master1_layout5_o168",
+            "master1_layout5_o169",
+            "master1_layout5_o170"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout5_o152",
+            "master1_layout5_o153",
+            "master1_layout5_o154",
+            "master1_layout5_o155",
+            "master1_layout5_o156",
+            "master1_layout5_o157",
+            "master1_layout5_o158",
+            "master1_layout5_o159",
+            "master1_layout5_o160",
+            "master1_layout5_o161",
+            "master1_layout5_o162",
+            "master1_layout5_o163",
+            "master1_layout5_o164",
+            "master1_layout5_o165",
+            "master1_layout5_o166",
+            "master1_layout5_o167",
+            "master1_layout5_o168",
+            "master1_layout5_o169",
+            "master1_layout5_o170"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": false,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s17",
+      "semantics": "semantics/s17.json",
+      "preview": "previews/s17.png",
+      "components": [
+        {
+          "id": "header",
+          "type": "text_block",
+          "members": [
+            "s17_o709",
+            "s17_o712"
+          ],
+          "slots": [
+            {
+              "object_id": "s17_o709",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s17_o712",
+              "role": "slide_description",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "metric_1",
+          "type": "kpi_block",
+          "members": [
+            "s17_o710"
+          ],
+          "slots": [
+            {
+              "object_id": "s17_o710",
+              "role": "metric_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "metric_2",
+          "type": "kpi_block",
+          "members": [
+            "s17_o711"
+          ],
+          "slots": [
+            {
+              "object_id": "s17_o711",
+              "role": "metric_text",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "logo_vk_workspace",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout9_o257"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout9_o257"
+          ]
+        },
+        {
+          "id": "logo_vk_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout9_o259"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout9_o259"
+          ]
+        },
+        {
+          "id": "decorative_master_top",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "decorative_master_bottom",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "decorative_layout_top",
+          "type": "decoration",
+          "members": [
+            "master1_layout9_o237",
+            "master1_layout9_o238",
+            "master1_layout9_o239",
+            "master1_layout9_o240",
+            "master1_layout9_o241",
+            "master1_layout9_o242",
+            "master1_layout9_o243",
+            "master1_layout9_o244",
+            "master1_layout9_o245",
+            "master1_layout9_o246",
+            "master1_layout9_o247",
+            "master1_layout9_o248",
+            "master1_layout9_o249",
+            "master1_layout9_o250",
+            "master1_layout9_o251",
+            "master1_layout9_o252",
+            "master1_layout9_o253",
+            "master1_layout9_o254",
+            "master1_layout9_o255"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout9_o237",
+            "master1_layout9_o238",
+            "master1_layout9_o239",
+            "master1_layout9_o240",
+            "master1_layout9_o241",
+            "master1_layout9_o242",
+            "master1_layout9_o243",
+            "master1_layout9_o244",
+            "master1_layout9_o245",
+            "master1_layout9_o246",
+            "master1_layout9_o247",
+            "master1_layout9_o248",
+            "master1_layout9_o249",
+            "master1_layout9_o250",
+            "master1_layout9_o251",
+            "master1_layout9_o252",
+            "master1_layout9_o253",
+            "master1_layout9_o254",
+            "master1_layout9_o255"
+          ]
+        },
+        {
+          "id": "decorative_layout_right",
+          "type": "decoration",
+          "members": [
+            "master1_layout9_o258"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout9_o258"
+          ]
+        },
+        {
+          "id": "decorative_layout_bottom",
+          "type": "decoration",
+          "members": [
+            "master1_layout9_o235"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout9_o235"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": true,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s18",
+      "semantics": "semantics/s18.json",
+      "preview": "previews/s18.png",
+      "components": [
+        {
+          "id": "title_block",
+          "type": "text_block",
+          "members": [
+            "s18_o718"
+          ],
+          "slots": [
+            {
+              "object_id": "s18_o718",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "metric_block",
+          "type": "content_card",
+          "members": [
+            "s18_o720"
+          ],
+          "slots": [
+            {
+              "object_id": "s18_o720",
+              "role": "metric_heading",
+              "content_type": "text",
+              "paragraph_indices": [
+                0
+              ]
+            },
+            {
+              "object_id": "s18_o720",
+              "role": "metric_body",
+              "content_type": "text",
+              "paragraph_indices": [
+                1
+              ]
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "illustration_placeholder",
+          "type": "placeholder_block",
+          "members": [
+            "s18_o719"
+          ],
+          "slots": [
+            {
+              "object_id": "s18_o719",
+              "role": "illustration_placeholder",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "logo_vk_workspace",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout9_o257"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout9_o257"
+          ]
+        },
+        {
+          "id": "logo_vk_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout9_o259"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout9_o259"
+          ]
+        },
+        {
+          "id": "decoration_top_master",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "decoration_bottom_master",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "decoration_top_layout",
+          "type": "decoration",
+          "members": [
+            "master1_layout9_o237",
+            "master1_layout9_o238",
+            "master1_layout9_o239",
+            "master1_layout9_o240",
+            "master1_layout9_o241",
+            "master1_layout9_o242",
+            "master1_layout9_o243",
+            "master1_layout9_o244",
+            "master1_layout9_o245",
+            "master1_layout9_o246",
+            "master1_layout9_o247",
+            "master1_layout9_o248",
+            "master1_layout9_o249",
+            "master1_layout9_o250",
+            "master1_layout9_o251",
+            "master1_layout9_o252",
+            "master1_layout9_o253",
+            "master1_layout9_o254",
+            "master1_layout9_o255"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout9_o237",
+            "master1_layout9_o238",
+            "master1_layout9_o239",
+            "master1_layout9_o240",
+            "master1_layout9_o241",
+            "master1_layout9_o242",
+            "master1_layout9_o243",
+            "master1_layout9_o244",
+            "master1_layout9_o245",
+            "master1_layout9_o246",
+            "master1_layout9_o247",
+            "master1_layout9_o248",
+            "master1_layout9_o249",
+            "master1_layout9_o250",
+            "master1_layout9_o251",
+            "master1_layout9_o252",
+            "master1_layout9_o253",
+            "master1_layout9_o254",
+            "master1_layout9_o255"
+          ]
+        },
+        {
+          "id": "decoration_right_layout",
+          "type": "decoration",
+          "members": [
+            "master1_layout9_o258"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout9_o258"
+          ]
+        },
+        {
+          "id": "decoration_bottom_right_layout",
+          "type": "decoration",
+          "members": [
+            "master1_layout9_o235"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout9_o235"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": true,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s19",
+      "semantics": "semantics/s19.json",
+      "preview": "previews/s19.png",
+      "components": [
+        {
+          "id": "background",
+          "type": "background",
+          "members": [
+            "master1_layout10_o261"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout10_o261"
+          ]
+        },
+        {
+          "id": "top_decorative_rule",
+          "type": "decorative_rule",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "bottom_decorative_rule",
+          "type": "decorative_rule",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        },
+        {
+          "id": "logo_left",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout10_o263"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout10_o263"
+          ]
+        },
+        {
+          "id": "logo_right",
+          "type": "logo",
+          "members": [
+            "master1_layout10_o264"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout10_o264"
+          ]
+        },
+        {
+          "id": "slide_title",
+          "type": "title",
+          "members": [
+            "s19_o726"
+          ],
+          "slots": [
+            {
+              "object_id": "s19_o726",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "chart_image",
+          "type": "chart_image",
+          "members": [
+            "s19_o727"
+          ],
+          "slots": [
+            {
+              "object_id": "s19_o727",
+              "role": "chart_image",
+              "content_type": "image",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "metric_card_top",
+          "type": "metric_card",
+          "members": [
+            "s19_o735",
+            "s19_o734"
+          ],
+          "slots": [
+            {
+              "object_id": "s19_o735",
+              "role": "metric_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s19_o734",
+              "role": "metric_value",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "metric_card_bottom",
+          "type": "metric_card",
+          "members": [
+            "s19_o733",
+            "s19_o732"
+          ],
+          "slots": [
+            {
+              "object_id": "s19_o733",
+              "role": "metric_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s19_o732",
+              "role": "metric_value",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "donut_center_metric",
+          "type": "metric_card",
+          "members": [
+            "s19_o729",
+            "s19_o728"
+          ],
+          "slots": [
+            {
+              "object_id": "s19_o729",
+              "role": "metric_value",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s19_o728",
+              "role": "metric_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "donut_segment_labels",
+          "type": "label_group",
+          "members": [
+            "s19_o730",
+            "s19_o731"
+          ],
+          "slots": [
+            {
+              "object_id": "s19_o730",
+              "role": "donut_segment_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            },
+            {
+              "object_id": "s19_o731",
+              "role": "donut_segment_label",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": false,
+      "unassigned": [],
+      "warnings": []
+    },
+    {
+      "slide_id": "s20",
+      "semantics": "semantics/s20.json",
+      "preview": "previews/s20.png",
+      "components": [
+        {
+          "id": "title",
+          "type": "title",
+          "members": [
+            "s20_o741"
+          ],
+          "slots": [
+            {
+              "object_id": "s20_o741",
+              "role": "slide_title",
+              "content_type": "text",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "chart_left",
+          "type": "chart_image",
+          "members": [
+            "s20_o742"
+          ],
+          "slots": [
+            {
+              "object_id": "s20_o742",
+              "role": "chart_image",
+              "content_type": "image",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "chart_right",
+          "type": "chart_image",
+          "members": [
+            "s20_o743"
+          ],
+          "slots": [
+            {
+              "object_id": "s20_o743",
+              "role": "chart_image",
+              "content_type": "image",
+              "paragraph_indices": null
+            }
+          ],
+          "preserve": []
+        },
+        {
+          "id": "background",
+          "type": "background",
+          "members": [
+            "master1_layout10_o261"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout10_o261"
+          ]
+        },
+        {
+          "id": "logo_vk",
+          "type": "logo",
+          "members": [
+            "master1_o53",
+            "master1_layout10_o263"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o53",
+            "master1_layout10_o263"
+          ]
+        },
+        {
+          "id": "logo_tech",
+          "type": "logo",
+          "members": [
+            "master1_layout10_o264"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_layout10_o264"
+          ]
+        },
+        {
+          "id": "master_top_decorative_lines",
+          "type": "decoration",
+          "members": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o14",
+            "master1_o15",
+            "master1_o16",
+            "master1_o17",
+            "master1_o18",
+            "master1_o19",
+            "master1_o20",
+            "master1_o21",
+            "master1_o22",
+            "master1_o23",
+            "master1_o24",
+            "master1_o25",
+            "master1_o26",
+            "master1_o27",
+            "master1_o28",
+            "master1_o29",
+            "master1_o30",
+            "master1_o31",
+            "master1_o32"
+          ]
+        },
+        {
+          "id": "master_bottom_decorative_lines",
+          "type": "decoration",
+          "members": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ],
+          "slots": [],
+          "preserve": [
+            "master1_o34",
+            "master1_o35",
+            "master1_o36",
+            "master1_o37",
+            "master1_o38",
+            "master1_o39",
+            "master1_o40",
+            "master1_o41",
+            "master1_o42",
+            "master1_o43",
+            "master1_o44",
+            "master1_o45",
+            "master1_o46",
+            "master1_o47",
+            "master1_o48",
+            "master1_o49",
+            "master1_o50",
+            "master1_o51",
+            "master1_o52"
+          ]
+        }
+      ],
+      "usage": "generation_template",
+      "needs_review": false,
+      "unassigned": [],
+      "warnings": []
+    }
+  ]
+}

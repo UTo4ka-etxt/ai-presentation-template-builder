@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "template-presentation-builder"
+version = "0.1.0"
+description = "Build native PPTX decks from decomposed presentation templates"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.115,<1",
+  "python-multipart>=0.0.20,<1",
+  "python-dotenv>=1.0,<2",
+  "uvicorn[standard]>=0.34,<1",
+  "pypdf>=5,<7",
+]
+
+[project.scripts]
+presentation-builder = "presentation_builder.cli:main"
+presentation-service = "presentation_builder.web:main"
+
+
+[tool.setuptools.packages.find]
+include = ["presentation_builder*"]
+
+[tool.setuptools.package-data]
+presentation_builder = ["prompts/*.txt"]

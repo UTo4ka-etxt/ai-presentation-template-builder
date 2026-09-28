@@ -1,0 +1,2277 @@
+{
+  "source_sha256": "1b8883114486c69dff706e9c4fd9382727c4506c2cfa3ec34f86987f1e852f2f",
+  "preview_sha256": "96cb133c100a50dc8c6ea5d06122dbb88dc7edbd585018b44e7b1a9c4b54c678",
+  "model": "qwen/qwen3.8-27b:free",
+  "prompt_version": "decompose_v5",
+  "object_scope": "composed_v1",
+  "schema_version": "0.2",
+  "object_catalog": [
+    {
+      "id": "master1_o13",
+      "shape_id": 13,
+      "name": "Google Shape;13;p1",
+      "kind": "group",
+      "parent_id": null,
+      "z_order": 3,
+      "geometry": {
+        "x": 0,
+        "y": -114752,
+        "width": 12188148,
+        "height": 64309,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:grpSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvGrpSpPr><p:cNvPr id=\"13\" name=\"Google Shape;13;p1\"/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x=\"0\" y=\"-114752\"/><a:ext cx=\"12188148\" cy=\"64309\"/><a:chOff x=\"0\" y=\"1773238\"/><a:chExt cx=\"12188148\" cy=\"735184\"/></a:xfrm></p:grpSpPr><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"14\" name=\"Google Shape;14;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"0\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"15\" name=\"Google Shape;15;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"677119\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"16\" name=\"Google Shape;16;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"1354238\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"17\" name=\"Google Shape;17;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2031357\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"18\" name=\"Google Shape;18;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2708476\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"19\" name=\"Google Shape;19;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"3385595\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"20\" name=\"Google Shape;20;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4062714\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"21\" name=\"Google Shape;21;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4739833\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"22\" name=\"Google Shape;22;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"5416952\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"23\" name=\"Google Shape;23;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6094071\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"24\" name=\"Google Shape;24;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6771190\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"25\" name=\"Google Shape;25;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"7448309\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"26\" name=\"Google Shape;26;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8125428\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"27\" name=\"Google Shape;27;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8802547\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"28\" name=\"Google Shape;28;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"9479666\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"29\" name=\"Google Shape;29;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10156785\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"30\" name=\"Google Shape;30;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10833904\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"31\" name=\"Google Shape;31;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"11511023\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"32\" name=\"Google Shape;32;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"12188148\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp></p:grpSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o14",
+      "shape_id": 14,
+      "name": "Google Shape;14;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 0,
+      "geometry": {
+        "x": 0,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"14\" name=\"Google Shape;14;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"0\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o15",
+      "shape_id": 15,
+      "name": "Google Shape;15;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 1,
+      "geometry": {
+        "x": 677119,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"15\" name=\"Google Shape;15;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"677119\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o16",
+      "shape_id": 16,
+      "name": "Google Shape;16;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 2,
+      "geometry": {
+        "x": 1354238,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"16\" name=\"Google Shape;16;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"1354238\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o17",
+      "shape_id": 17,
+      "name": "Google Shape;17;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 3,
+      "geometry": {
+        "x": 2031357,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"17\" name=\"Google Shape;17;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2031357\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o18",
+      "shape_id": 18,
+      "name": "Google Shape;18;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 4,
+      "geometry": {
+        "x": 2708476,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"18\" name=\"Google Shape;18;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2708476\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o19",
+      "shape_id": 19,
+      "name": "Google Shape;19;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 5,
+      "geometry": {
+        "x": 3385595,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"19\" name=\"Google Shape;19;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"3385595\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o20",
+      "shape_id": 20,
+      "name": "Google Shape;20;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 6,
+      "geometry": {
+        "x": 4062714,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"20\" name=\"Google Shape;20;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4062714\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o21",
+      "shape_id": 21,
+      "name": "Google Shape;21;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 7,
+      "geometry": {
+        "x": 4739833,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"21\" name=\"Google Shape;21;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4739833\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o22",
+      "shape_id": 22,
+      "name": "Google Shape;22;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 8,
+      "geometry": {
+        "x": 5416952,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"22\" name=\"Google Shape;22;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"5416952\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o23",
+      "shape_id": 23,
+      "name": "Google Shape;23;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 9,
+      "geometry": {
+        "x": 6094071,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"23\" name=\"Google Shape;23;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6094071\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o24",
+      "shape_id": 24,
+      "name": "Google Shape;24;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 10,
+      "geometry": {
+        "x": 6771190,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"24\" name=\"Google Shape;24;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6771190\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o25",
+      "shape_id": 25,
+      "name": "Google Shape;25;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 11,
+      "geometry": {
+        "x": 7448309,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"25\" name=\"Google Shape;25;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"7448309\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o26",
+      "shape_id": 26,
+      "name": "Google Shape;26;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 12,
+      "geometry": {
+        "x": 8125428,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"26\" name=\"Google Shape;26;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8125428\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o27",
+      "shape_id": 27,
+      "name": "Google Shape;27;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 13,
+      "geometry": {
+        "x": 8802547,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"27\" name=\"Google Shape;27;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8802547\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o28",
+      "shape_id": 28,
+      "name": "Google Shape;28;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 14,
+      "geometry": {
+        "x": 9479666,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"28\" name=\"Google Shape;28;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"9479666\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o29",
+      "shape_id": 29,
+      "name": "Google Shape;29;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 15,
+      "geometry": {
+        "x": 10156785,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"29\" name=\"Google Shape;29;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10156785\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o30",
+      "shape_id": 30,
+      "name": "Google Shape;30;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 16,
+      "geometry": {
+        "x": 10833904,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"30\" name=\"Google Shape;30;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10833904\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o31",
+      "shape_id": 31,
+      "name": "Google Shape;31;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 17,
+      "geometry": {
+        "x": 11511023,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"31\" name=\"Google Shape;31;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"11511023\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o32",
+      "shape_id": 32,
+      "name": "Google Shape;32;p1",
+      "kind": "connector",
+      "parent_id": "master1_o13",
+      "z_order": 18,
+      "geometry": {
+        "x": 12188148,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o13"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"32\" name=\"Google Shape;32;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"12188148\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o33",
+      "shape_id": 33,
+      "name": "Google Shape;33;p1",
+      "kind": "group",
+      "parent_id": null,
+      "z_order": 4,
+      "geometry": {
+        "x": -3,
+        "y": 6987088,
+        "width": 12188148,
+        "height": 64309,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:grpSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvGrpSpPr><p:cNvPr id=\"33\" name=\"Google Shape;33;p1\"/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x=\"-3\" y=\"6987088\"/><a:ext cx=\"12188148\" cy=\"64309\"/><a:chOff x=\"0\" y=\"1773238\"/><a:chExt cx=\"12188148\" cy=\"735184\"/></a:xfrm></p:grpSpPr><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"34\" name=\"Google Shape;34;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"0\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"35\" name=\"Google Shape;35;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"677119\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"36\" name=\"Google Shape;36;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"1354238\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"37\" name=\"Google Shape;37;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2031357\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"38\" name=\"Google Shape;38;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2708476\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"39\" name=\"Google Shape;39;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"3385595\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"40\" name=\"Google Shape;40;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4062714\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"41\" name=\"Google Shape;41;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4739833\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"42\" name=\"Google Shape;42;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"5416952\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"43\" name=\"Google Shape;43;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6094071\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"44\" name=\"Google Shape;44;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6771190\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"45\" name=\"Google Shape;45;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"7448309\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"46\" name=\"Google Shape;46;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8125428\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"47\" name=\"Google Shape;47;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8802547\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"48\" name=\"Google Shape;48;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"9479666\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"49\" name=\"Google Shape;49;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10156785\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"50\" name=\"Google Shape;50;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10833904\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"51\" name=\"Google Shape;51;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"11511023\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"52\" name=\"Google Shape;52;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"12188148\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp></p:grpSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o34",
+      "shape_id": 34,
+      "name": "Google Shape;34;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 0,
+      "geometry": {
+        "x": 0,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"34\" name=\"Google Shape;34;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"0\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o35",
+      "shape_id": 35,
+      "name": "Google Shape;35;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 1,
+      "geometry": {
+        "x": 677119,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"35\" name=\"Google Shape;35;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"677119\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o36",
+      "shape_id": 36,
+      "name": "Google Shape;36;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 2,
+      "geometry": {
+        "x": 1354238,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"36\" name=\"Google Shape;36;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"1354238\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o37",
+      "shape_id": 37,
+      "name": "Google Shape;37;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 3,
+      "geometry": {
+        "x": 2031357,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"37\" name=\"Google Shape;37;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2031357\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o38",
+      "shape_id": 38,
+      "name": "Google Shape;38;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 4,
+      "geometry": {
+        "x": 2708476,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"38\" name=\"Google Shape;38;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2708476\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o39",
+      "shape_id": 39,
+      "name": "Google Shape;39;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 5,
+      "geometry": {
+        "x": 3385595,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"39\" name=\"Google Shape;39;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"3385595\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o40",
+      "shape_id": 40,
+      "name": "Google Shape;40;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 6,
+      "geometry": {
+        "x": 4062714,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"40\" name=\"Google Shape;40;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4062714\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o41",
+      "shape_id": 41,
+      "name": "Google Shape;41;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 7,
+      "geometry": {
+        "x": 4739833,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"41\" name=\"Google Shape;41;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4739833\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o42",
+      "shape_id": 42,
+      "name": "Google Shape;42;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 8,
+      "geometry": {
+        "x": 5416952,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"42\" name=\"Google Shape;42;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"5416952\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o43",
+      "shape_id": 43,
+      "name": "Google Shape;43;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 9,
+      "geometry": {
+        "x": 6094071,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"43\" name=\"Google Shape;43;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6094071\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o44",
+      "shape_id": 44,
+      "name": "Google Shape;44;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 10,
+      "geometry": {
+        "x": 6771190,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"44\" name=\"Google Shape;44;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6771190\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o45",
+      "shape_id": 45,
+      "name": "Google Shape;45;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 11,
+      "geometry": {
+        "x": 7448309,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"45\" name=\"Google Shape;45;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"7448309\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o46",
+      "shape_id": 46,
+      "name": "Google Shape;46;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 12,
+      "geometry": {
+        "x": 8125428,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"46\" name=\"Google Shape;46;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8125428\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o47",
+      "shape_id": 47,
+      "name": "Google Shape;47;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 13,
+      "geometry": {
+        "x": 8802547,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"47\" name=\"Google Shape;47;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8802547\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o48",
+      "shape_id": 48,
+      "name": "Google Shape;48;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 14,
+      "geometry": {
+        "x": 9479666,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"48\" name=\"Google Shape;48;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"9479666\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o49",
+      "shape_id": 49,
+      "name": "Google Shape;49;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 15,
+      "geometry": {
+        "x": 10156785,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"49\" name=\"Google Shape;49;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10156785\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o50",
+      "shape_id": 50,
+      "name": "Google Shape;50;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 16,
+      "geometry": {
+        "x": 10833904,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"50\" name=\"Google Shape;50;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10833904\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o51",
+      "shape_id": 51,
+      "name": "Google Shape;51;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 17,
+      "geometry": {
+        "x": 11511023,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"51\" name=\"Google Shape;51;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"11511023\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o52",
+      "shape_id": 52,
+      "name": "Google Shape;52;p1",
+      "kind": "connector",
+      "parent_id": "master1_o33",
+      "z_order": 18,
+      "geometry": {
+        "x": 12188148,
+        "y": 1773238,
+        "width": 0,
+        "height": 735184,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_o33"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"52\" name=\"Google Shape;52;p1\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"12188148\" y=\"1773238\"/><a:ext cx=\"0\" cy=\"735184\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"7F7F7F\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_o53",
+      "shape_id": 53,
+      "name": "Google Shape;53;p1",
+      "kind": "image",
+      "parent_id": null,
+      "z_order": 5,
+      "geometry": {
+        "x": 419564,
+        "y": 6161239,
+        "width": 932071,
+        "height": 288000,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slideMasters/slideMaster1.xml",
+      "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvPicPr><p:cNvPr id=\"53\" name=\"Google Shape;53;p1\"/><p:cNvPicPr preferRelativeResize=\"0\"/><p:nvPr/></p:nvPicPr><p:blipFill rotWithShape=\"1\"><a:blip r:embed=\"rId1\"><a:alphaModFix/></a:blip><a:srcRect b=\"0\" l=\"0\" r=\"0\" t=\"0\"/><a:stretch/></p:blipFill><p:spPr><a:xfrm><a:off x=\"419564\" y=\"6161239\"/><a:ext cx=\"932071\" cy=\"288000\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr></p:pic>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [
+        {
+          "source_part": "ppt/media/image1.png",
+          "asset_id": "925206eafc7ea8ed788ddca29fea21c0874837aa268ca9c56444a3fedc03147f",
+          "path": "assets/925206eafc7ea8ed788ddca29fea21c0874837aa268ca9c56444a3fedc03147f.png",
+          "sha256": "925206eafc7ea8ed788ddca29fea21c0874837aa268ca9c56444a3fedc03147f"
+        }
+      ],
+      "origin": {
+        "scope": "master",
+        "part_id": "master1",
+        "source_part": "ppt/slideMasters/slideMaster1.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o235",
+      "shape_id": 235,
+      "name": "Google Shape;235;p10",
+      "kind": "image",
+      "parent_id": null,
+      "z_order": 0,
+      "geometry": {
+        "x": 6096000,
+        "y": 5844358,
+        "width": 6096000,
+        "height": 1013642,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvPicPr><p:cNvPr descr=\" \" id=\"235\" name=\"Google Shape;235;p10\"/><p:cNvPicPr preferRelativeResize=\"0\"/><p:nvPr/></p:nvPicPr><p:blipFill rotWithShape=\"1\"><a:blip r:embed=\"rId2\"><a:alphaModFix/></a:blip><a:srcRect b=\"0\" l=\"0\" r=\"0\" t=\"0\"/><a:stretch/></p:blipFill><p:spPr><a:xfrm><a:off x=\"6096000\" y=\"5844358\"/><a:ext cx=\"6096000\" cy=\"1013642\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr></p:pic>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [
+        {
+          "source_part": "ppt/media/image14.png",
+          "asset_id": "811f9fdb90049534c4f8dc531eaf8b95c8d4fca6cbc78edc94a8693dfd87372b",
+          "path": "assets/811f9fdb90049534c4f8dc531eaf8b95c8d4fca6cbc78edc94a8693dfd87372b.png",
+          "sha256": "811f9fdb90049534c4f8dc531eaf8b95c8d4fca6cbc78edc94a8693dfd87372b"
+        }
+      ],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o236",
+      "shape_id": 236,
+      "name": "Google Shape;236;p10",
+      "kind": "group",
+      "parent_id": null,
+      "z_order": 1,
+      "geometry": {
+        "x": 224842,
+        "y": -74145,
+        "width": 12188171,
+        "height": 64326,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:grpSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvGrpSpPr><p:cNvPr id=\"236\" name=\"Google Shape;236;p10\"/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x=\"224842\" y=\"-74145\"/><a:ext cx=\"12188171\" cy=\"64326\"/><a:chOff x=\"-2\" y=\"-2\"/><a:chExt cx=\"12188169\" cy=\"64324\"/></a:xfrm></p:grpSpPr><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"237\" name=\"Google Shape;237;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"-2\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"238\" name=\"Google Shape;238;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"677118\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"239\" name=\"Google Shape;239;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"1354241\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"240\" name=\"Google Shape;240;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2031360\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"241\" name=\"Google Shape;241;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2708479\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"242\" name=\"Google Shape;242;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"3385598\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"243\" name=\"Google Shape;243;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4062717\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"244\" name=\"Google Shape;244;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4739836\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"245\" name=\"Google Shape;245;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"5416955\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"246\" name=\"Google Shape;246;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6094077\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"247\" name=\"Google Shape;247;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6771195\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"248\" name=\"Google Shape;248;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"7448315\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"249\" name=\"Google Shape;249;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8125435\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"250\" name=\"Google Shape;250;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8802554\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"251\" name=\"Google Shape;251;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"9479673\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"252\" name=\"Google Shape;252;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10156792\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"253\" name=\"Google Shape;253;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10833914\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"254\" name=\"Google Shape;254;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"11511034\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"255\" name=\"Google Shape;255;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"12188160\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp></p:grpSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o237",
+      "shape_id": 237,
+      "name": "Google Shape;237;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 0,
+      "geometry": {
+        "x": -2,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"237\" name=\"Google Shape;237;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"-2\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o238",
+      "shape_id": 238,
+      "name": "Google Shape;238;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 1,
+      "geometry": {
+        "x": 677118,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"238\" name=\"Google Shape;238;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"677118\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o239",
+      "shape_id": 239,
+      "name": "Google Shape;239;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 2,
+      "geometry": {
+        "x": 1354241,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"239\" name=\"Google Shape;239;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"1354241\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o240",
+      "shape_id": 240,
+      "name": "Google Shape;240;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 3,
+      "geometry": {
+        "x": 2031360,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"240\" name=\"Google Shape;240;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2031360\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o241",
+      "shape_id": 241,
+      "name": "Google Shape;241;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 4,
+      "geometry": {
+        "x": 2708479,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"241\" name=\"Google Shape;241;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"2708479\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o242",
+      "shape_id": 242,
+      "name": "Google Shape;242;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 5,
+      "geometry": {
+        "x": 3385598,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"242\" name=\"Google Shape;242;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"3385598\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o243",
+      "shape_id": 243,
+      "name": "Google Shape;243;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 6,
+      "geometry": {
+        "x": 4062717,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"243\" name=\"Google Shape;243;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4062717\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o244",
+      "shape_id": 244,
+      "name": "Google Shape;244;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 7,
+      "geometry": {
+        "x": 4739836,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"244\" name=\"Google Shape;244;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"4739836\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o245",
+      "shape_id": 245,
+      "name": "Google Shape;245;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 8,
+      "geometry": {
+        "x": 5416955,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"245\" name=\"Google Shape;245;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"5416955\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o246",
+      "shape_id": 246,
+      "name": "Google Shape;246;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 9,
+      "geometry": {
+        "x": 6094077,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"246\" name=\"Google Shape;246;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6094077\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o247",
+      "shape_id": 247,
+      "name": "Google Shape;247;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 10,
+      "geometry": {
+        "x": 6771195,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"247\" name=\"Google Shape;247;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"6771195\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o248",
+      "shape_id": 248,
+      "name": "Google Shape;248;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 11,
+      "geometry": {
+        "x": 7448315,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"248\" name=\"Google Shape;248;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"7448315\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o249",
+      "shape_id": 249,
+      "name": "Google Shape;249;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 12,
+      "geometry": {
+        "x": 8125435,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"249\" name=\"Google Shape;249;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8125435\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o250",
+      "shape_id": 250,
+      "name": "Google Shape;250;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 13,
+      "geometry": {
+        "x": 8802554,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"250\" name=\"Google Shape;250;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"8802554\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o251",
+      "shape_id": 251,
+      "name": "Google Shape;251;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 14,
+      "geometry": {
+        "x": 9479673,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"251\" name=\"Google Shape;251;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"9479673\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o252",
+      "shape_id": 252,
+      "name": "Google Shape;252;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 15,
+      "geometry": {
+        "x": 10156792,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"252\" name=\"Google Shape;252;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10156792\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o253",
+      "shape_id": 253,
+      "name": "Google Shape;253;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 16,
+      "geometry": {
+        "x": 10833914,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"253\" name=\"Google Shape;253;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"10833914\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o254",
+      "shape_id": 254,
+      "name": "Google Shape;254;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 17,
+      "geometry": {
+        "x": 11511034,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"254\" name=\"Google Shape;254;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"11511034\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o255",
+      "shape_id": 255,
+      "name": "Google Shape;255;p10",
+      "kind": "connector",
+      "parent_id": "master1_layout9_o236",
+      "z_order": 18,
+      "geometry": {
+        "x": 12188160,
+        "y": -2,
+        "width": 7,
+        "height": 64324,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "master1_layout9_o236"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvCxnSpPr><p:cNvPr id=\"255\" name=\"Google Shape;255;p10\"/><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"12188160\" y=\"-2\"/><a:ext cx=\"7\" cy=\"64324\"/></a:xfrm><a:prstGeom prst=\"straightConnector1\"><a:avLst/></a:prstGeom><a:noFill/><a:ln cap=\"flat\" cmpd=\"sng\" w=\"9525\"><a:solidFill><a:srgbClr val=\"808080\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"8000\"/><a:headEnd len=\"sm\" w=\"sm\" type=\"none\"/><a:tailEnd len=\"sm\" w=\"sm\" type=\"none\"/></a:ln></p:spPr></p:cxnSp>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o257",
+      "shape_id": 257,
+      "name": "Google Shape;257;p10",
+      "kind": "image",
+      "parent_id": null,
+      "z_order": 3,
+      "geometry": {
+        "x": 398723,
+        "y": 6160516,
+        "width": 1857481,
+        "height": 292671,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvPicPr><p:cNvPr id=\"257\" name=\"Google Shape;257;p10\"/><p:cNvPicPr preferRelativeResize=\"0\"/><p:nvPr/></p:nvPicPr><p:blipFill rotWithShape=\"1\"><a:blip r:embed=\"rId3\"><a:alphaModFix/></a:blip><a:srcRect b=\"0\" l=\"0\" r=\"0\" t=\"0\"/><a:stretch/></p:blipFill><p:spPr><a:xfrm><a:off x=\"398723\" y=\"6160516\"/><a:ext cx=\"1857481\" cy=\"292671\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr></p:pic>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [
+        {
+          "source_part": "ppt/media/image4.png",
+          "asset_id": "9b34cfb82e109d589ba52b57430b0558ca2cd71f0da2804ab9c8b4d8a0d6e860",
+          "path": "assets/9b34cfb82e109d589ba52b57430b0558ca2cd71f0da2804ab9c8b4d8a0d6e860.png",
+          "sha256": "9b34cfb82e109d589ba52b57430b0558ca2cd71f0da2804ab9c8b4d8a0d6e860"
+        }
+      ],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o258",
+      "shape_id": 258,
+      "name": "Google Shape;258;p10",
+      "kind": "image",
+      "parent_id": null,
+      "z_order": 4,
+      "geometry": {
+        "x": 10866292,
+        "y": 0,
+        "width": 1325708,
+        "height": 3723972,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvPicPr><p:cNvPr descr=\" \" id=\"258\" name=\"Google Shape;258;p10\"/><p:cNvPicPr preferRelativeResize=\"0\"/><p:nvPr/></p:nvPicPr><p:blipFill rotWithShape=\"1\"><a:blip r:embed=\"rId4\"><a:alphaModFix/></a:blip><a:srcRect b=\"0\" l=\"0\" r=\"0\" t=\"0\"/><a:stretch/></p:blipFill><p:spPr><a:xfrm><a:off x=\"10866292\" y=\"0\"/><a:ext cx=\"1325708\" cy=\"3723972\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr></p:pic>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [
+        {
+          "source_part": "ppt/media/image12.png",
+          "asset_id": "a659befa7f81e1fd21ca90d76fa9a1882535e85fb5f115453ab20bed210ae2f1",
+          "path": "assets/a659befa7f81e1fd21ca90d76fa9a1882535e85fb5f115453ab20bed210ae2f1.png",
+          "sha256": "a659befa7f81e1fd21ca90d76fa9a1882535e85fb5f115453ab20bed210ae2f1"
+        }
+      ],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "master1_layout9_o259",
+      "shape_id": 259,
+      "name": "Google Shape;259;p10",
+      "kind": "image",
+      "parent_id": null,
+      "z_order": 5,
+      "geometry": {
+        "x": 11093496,
+        "y": 6238282,
+        "width": 690517,
+        "height": 216000,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slideLayouts/slideLayout9.xml",
+      "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvPicPr><p:cNvPr descr=\" \" id=\"259\" name=\"Google Shape;259;p10\"/><p:cNvPicPr preferRelativeResize=\"0\"/><p:nvPr/></p:nvPicPr><p:blipFill rotWithShape=\"1\"><a:blip r:embed=\"rId5\"><a:alphaModFix/></a:blip><a:srcRect b=\"0\" l=\"0\" r=\"0\" t=\"0\"/><a:stretch/></p:blipFill><p:spPr><a:xfrm><a:off x=\"11093496\" y=\"6238282\"/><a:ext cx=\"690517\" cy=\"216000\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr></p:pic>",
+      "text": null,
+      "paragraphs": [],
+      "assets": [
+        {
+          "source_part": "ppt/media/image7.png",
+          "asset_id": "5bbc29b651b7c9a12b5955c05892e716a41c39cf5b681c68136e6062c080adb9",
+          "path": "assets/5bbc29b651b7c9a12b5955c05892e716a41c39cf5b681c68136e6062c080adb9.png",
+          "sha256": "5bbc29b651b7c9a12b5955c05892e716a41c39cf5b681c68136e6062c080adb9"
+        }
+      ],
+      "origin": {
+        "scope": "layout",
+        "part_id": "master1_layout9",
+        "source_part": "ppt/slideLayouts/slideLayout9.xml"
+      }
+    },
+    {
+      "id": "s17_o709",
+      "shape_id": 709,
+      "name": "Google Shape;709;p33",
+      "kind": "shape",
+      "parent_id": null,
+      "z_order": 0,
+      "geometry": {
+        "x": 429253,
+        "y": 424691,
+        "width": 7827311,
+        "height": 1167572,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slides/slide17.xml",
+      "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvSpPr><p:cNvPr id=\"709\" name=\"Google Shape;709;p33\"/><p:cNvSpPr txBox=\"1\"/><p:nvPr><p:ph type=\"title\"/></p:nvPr></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"429253\" y=\"424691\"/><a:ext cx=\"7827311\" cy=\"1167572\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr><p:txBody><a:bodyPr anchorCtr=\"0\" anchor=\"t\" bIns=\"0\" lIns=\"0\" spcFirstLastPara=\"1\" rIns=\"0\" wrap=\"square\" tIns=\"0\"><a:noAutofit/></a:bodyPr><a:lstStyle/><a:p><a:pPr indent=\"0\" lvl=\"0\" marL=\"0\" rtl=\"0\" algn=\"l\"><a:lnSpc><a:spcPct val=\"90000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClr><a:schemeClr val=\"lt1\"/></a:buClr><a:buSzPts val=\"3600\"/><a:buFont typeface=\"Play\"/><a:buNone/></a:pPr><a:r><a:rPr lang=\"ru-RU\"/><a:t>Заголовок</a:t></a:r><a:endParaRPr/></a:p></p:txBody></p:sp>",
+      "text": "Заголовок",
+      "paragraphs": [
+        {
+          "text": "Заголовок",
+          "level": 0,
+          "runs": [
+            {
+              "text": "Заголовок",
+              "font_name": null,
+              "font_size_pt": null,
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ],
+      "assets": [],
+      "placeholder": {
+        "idx": 0,
+        "type": "TITLE (1)"
+      },
+      "origin": {
+        "scope": "slide",
+        "part_id": "s17",
+        "source_part": "ppt/slides/slide17.xml"
+      }
+    },
+    {
+      "id": "s17_o710",
+      "shape_id": 710,
+      "name": "Google Shape;710;p33",
+      "kind": "shape",
+      "parent_id": null,
+      "z_order": 1,
+      "geometry": {
+        "x": 6316808,
+        "y": 1243208,
+        "width": 4739119,
+        "height": 1912853,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slides/slide17.xml",
+      "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvSpPr><p:cNvPr id=\"710\" name=\"Google Shape;710;p33\"/><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6316808\" y=\"1243208\"/><a:ext cx=\"4739119\" cy=\"1912853\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr><p:txBody><a:bodyPr anchorCtr=\"0\" anchor=\"t\" bIns=\"121875\" lIns=\"0\" spcFirstLastPara=\"1\" rIns=\"121875\" wrap=\"square\" tIns=\"0\"><a:noAutofit/></a:bodyPr><a:lstStyle/><a:p><a:pPr indent=\"0\" lvl=\"0\" marL=\"0\" marR=\"0\" rtl=\"0\" algn=\"l\"><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"1000\"/></a:spcAft><a:buNone/></a:pPr><a:r><a:rPr b=\"1\" lang=\"ru-RU\" sz=\"8000\"><a:solidFill><a:srgbClr val=\"70C3FF\"/></a:solidFill><a:latin typeface=\"Play\"/><a:ea typeface=\"Play\"/><a:cs typeface=\"Play\"/><a:sym typeface=\"Play\"/></a:rPr><a:t>ххх%</a:t></a:r><a:br><a:rPr b=\"1\" lang=\"ru-RU\" sz=\"6600\"><a:solidFill><a:srgbClr val=\"70C3FF\"/></a:solidFill><a:latin typeface=\"Play\"/><a:ea typeface=\"Play\"/><a:cs typeface=\"Play\"/><a:sym typeface=\"Play\"/></a:rPr></a:br><a:r><a:rPr lang=\"ru-RU\" sz=\"1600\"><a:solidFill><a:srgbClr val=\"70C3FF\"/></a:solidFill><a:latin typeface=\"Play\"/><a:ea typeface=\"Play\"/><a:cs typeface=\"Play\"/><a:sym typeface=\"Play\"/></a:rPr><a:t>данные показателя</a:t></a:r><a:endParaRPr sz=\"1600\"><a:solidFill><a:srgbClr val=\"70C3FF\"/></a:solidFill><a:latin typeface=\"Play\"/><a:ea typeface=\"Play\"/><a:cs typeface=\"Play\"/><a:sym typeface=\"Play\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "text": "ххх%\u000bданные показателя",
+      "paragraphs": [
+        {
+          "text": "ххх%\u000bданные показателя",
+          "level": 0,
+          "runs": [
+            {
+              "text": "ххх%",
+              "font_name": "Play",
+              "font_size_pt": 80.0,
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "данные показателя",
+              "font_name": "Play",
+              "font_size_pt": 16.0,
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ],
+      "assets": [],
+      "origin": {
+        "scope": "slide",
+        "part_id": "s17",
+        "source_part": "ppt/slides/slide17.xml"
+      }
+    },
+    {
+      "id": "s17_o711",
+      "shape_id": 711,
+      "name": "Google Shape;711;p33",
+      "kind": "shape",
+      "parent_id": null,
+      "z_order": 2,
+      "geometry": {
+        "x": 6316808,
+        "y": 3598223,
+        "width": 4739119,
+        "height": 2589746,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slides/slide17.xml",
+      "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvSpPr><p:cNvPr id=\"711\" name=\"Google Shape;711;p33\"/><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6316808\" y=\"3598223\"/><a:ext cx=\"4739119\" cy=\"2589746\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr><p:txBody><a:bodyPr anchorCtr=\"0\" anchor=\"t\" bIns=\"121875\" lIns=\"0\" spcFirstLastPara=\"1\" rIns=\"121875\" wrap=\"square\" tIns=\"0\"><a:noAutofit/></a:bodyPr><a:lstStyle/><a:p><a:pPr indent=\"0\" lvl=\"0\" marL=\"0\" marR=\"0\" rtl=\"0\" algn=\"l\"><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"1000\"/></a:spcAft><a:buNone/></a:pPr><a:r><a:rPr b=\"1\" lang=\"ru-RU\" sz=\"8000\"><a:solidFill><a:srgbClr val=\"70C3FF\"/></a:solidFill><a:latin typeface=\"Play\"/><a:ea typeface=\"Play\"/><a:cs typeface=\"Play\"/><a:sym typeface=\"Play\"/></a:rPr><a:t>ххх%</a:t></a:r><a:br><a:rPr b=\"1\" lang=\"ru-RU\" sz=\"2400\"><a:solidFill><a:srgbClr val=\"70C3FF\"/></a:solidFill><a:latin typeface=\"Play\"/><a:ea typeface=\"Play\"/><a:cs typeface=\"Play\"/><a:sym typeface=\"Play\"/></a:rPr></a:br><a:r><a:rPr lang=\"ru-RU\" sz=\"1600\"><a:solidFill><a:srgbClr val=\"70C3FF\"/></a:solidFill><a:latin typeface=\"Play\"/><a:ea typeface=\"Play\"/><a:cs typeface=\"Play\"/><a:sym typeface=\"Play\"/></a:rPr><a:t>данные показателя</a:t></a:r><a:endParaRPr sz=\"1800\"><a:solidFill><a:srgbClr val=\"70C3FF\"/></a:solidFill><a:latin typeface=\"Play\"/><a:ea typeface=\"Play\"/><a:cs typeface=\"Play\"/><a:sym typeface=\"Play\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "text": "ххх%\u000bданные показателя",
+      "paragraphs": [
+        {
+          "text": "ххх%\u000bданные показателя",
+          "level": 0,
+          "runs": [
+            {
+              "text": "ххх%",
+              "font_name": "Play",
+              "font_size_pt": 80.0,
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "данные показателя",
+              "font_name": "Play",
+              "font_size_pt": 16.0,
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ],
+      "assets": [],
+      "origin": {
+        "scope": "slide",
+        "part_id": "s17",
+        "source_part": "ppt/slides/slide17.xml"
+      }
+    },
+    {
+      "id": "s17_o712",
+      "shape_id": 712,
+      "name": "Google Shape;712;p33",
+      "kind": "shape",
+      "parent_id": null,
+      "z_order": 3,
+      "geometry": {
+        "x": 431328,
+        "y": 1243208,
+        "width": 3630033,
+        "height": 644241,
+        "rotation": 0.0,
+        "units": "EMU",
+        "coordinate_space": "slide"
+      },
+      "source_part": "ppt/slides/slide17.xml",
+      "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:pvml=\"urn:schemas-microsoft-com:office:powerpoint\" xmlns:com=\"http://schemas.openxmlformats.org/drawingml/2006/compatibility\" xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" xmlns:p15=\"http://schemas.microsoft.com/office/powerpoint/2012/main\" xmlns:ahyp=\"http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor\"><p:nvSpPr><p:cNvPr id=\"712\" name=\"Google Shape;712;p33\"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"431328\" y=\"1243208\"/><a:ext cx=\"3630033\" cy=\"644241\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln></p:spPr><p:txBody><a:bodyPr anchorCtr=\"0\" anchor=\"t\" bIns=\"0\" lIns=\"0\" spcFirstLastPara=\"1\" rIns=\"0\" wrap=\"square\" tIns=\"0\"><a:noAutofit/></a:bodyPr><a:lstStyle/><a:p><a:pPr indent=\"0\" lvl=\"0\" marL=\"0\" marR=\"0\" rtl=\"0\" algn=\"l\"><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buNone/></a:pPr><a:r><a:rPr lang=\"ru-RU\" sz=\"1600\"><a:solidFill><a:srgbClr val=\"CAD0D5\"/></a:solidFill><a:latin typeface=\"Play\"/><a:ea typeface=\"Play\"/><a:cs typeface=\"Play\"/><a:sym typeface=\"Play\"/></a:rPr><a:t>Текст описания</a:t></a:r><a:endParaRPr/></a:p></p:txBody></p:sp>",
+      "text": "Текст описания",
+      "paragraphs": [
+        {
+          "text": "Текст описания",
+          "level": 0,
+          "runs": [
+            {
+              "text": "Текст описания",
+              "font_name": "Play",
+              "font_size_pt": 16.0,
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ],
+      "assets": [],
+      "origin": {
+        "scope": "slide",
+        "part_id": "s17",
+        "source_part": "ppt/slides/slide17.xml"
+      }
+    }
+  ],
+  "result": {
+    "slide_id": "s17",
+    "slide_role": "kpi_content_slide",
+    "usage": "generation_template",
+    "components": [
+      {
+        "id": "header",
+        "type": "text_block",
+        "members": [
+          "s17_o709",
+          "s17_o712"
+        ],
+        "slots": [
+          {
+            "object_id": "s17_o709",
+            "role": "slide_title",
+            "content_type": "text",
+            "paragraph_indices": null
+          },
+          {
+            "object_id": "s17_o712",
+            "role": "slide_description",
+            "content_type": "text",
+            "paragraph_indices": null
+          }
+        ],
+        "preserve": []
+      },
+      {
+        "id": "metric_1",
+        "type": "kpi_block",
+        "members": [
+          "s17_o710"
+        ],
+        "slots": [
+          {
+            "object_id": "s17_o710",
+            "role": "metric_text",
+            "content_type": "text",
+            "paragraph_indices": null
+          }
+        ],
+        "preserve": []
+      },
+      {
+        "id": "metric_2",
+        "type": "kpi_block",
+        "members": [
+          "s17_o711"
+        ],
+        "slots": [
+          {
+            "object_id": "s17_o711",
+            "role": "metric_text",
+            "content_type": "text",
+            "paragraph_indices": null
+          }
+        ],
+        "preserve": []
+      },
+      {
+        "id": "logo_vk_workspace",
+        "type": "logo",
+        "members": [
+          "master1_o53",
+          "master1_layout9_o257"
+        ],
+        "slots": [],
+        "preserve": [
+          "master1_o53",
+          "master1_layout9_o257"
+        ]
+      },
+      {
+        "id": "logo_vk_tech",
+        "type": "logo",
+        "members": [
+          "master1_layout9_o259"
+        ],
+        "slots": [],
+        "preserve": [
+          "master1_layout9_o259"
+        ]
+      },
+      {
+        "id": "decorative_master_top",
+        "type": "decoration",
+        "members": [
+          "master1_o14",
+          "master1_o15",
+          "master1_o16",
+          "master1_o17",
+          "master1_o18",
+          "master1_o19",
+          "master1_o20",
+          "master1_o21",
+          "master1_o22",
+          "master1_o23",
+          "master1_o24",
+          "master1_o25",
+          "master1_o26",
+          "master1_o27",
+          "master1_o28",
+          "master1_o29",
+          "master1_o30",
+          "master1_o31",
+          "master1_o32"
+        ],
+        "slots": [],
+        "preserve": [
+          "master1_o14",
+          "master1_o15",
+          "master1_o16",
+          "master1_o17",
+          "master1_o18",
+          "master1_o19",
+          "master1_o20",
+          "master1_o21",
+          "master1_o22",
+          "master1_o23",
+          "master1_o24",
+          "master1_o25",
+          "master1_o26",
+          "master1_o27",
+          "master1_o28",
+          "master1_o29",
+          "master1_o30",
+          "master1_o31",
+          "master1_o32"
+        ]
+      },
+      {
+        "id": "decorative_master_bottom",
+        "type": "decoration",
+        "members": [
+          "master1_o34",
+          "master1_o35",
+          "master1_o36",
+          "master1_o37",
+          "master1_o38",
+          "master1_o39",
+          "master1_o40",
+          "master1_o41",
+          "master1_o42",
+          "master1_o43",
+          "master1_o44",
+          "master1_o45",
+          "master1_o46",
+          "master1_o47",
+          "master1_o48",
+          "master1_o49",
+          "master1_o50",
+          "master1_o51",
+          "master1_o52"
+        ],
+        "slots": [],
+        "preserve": [
+          "master1_o34",
+          "master1_o35",
+          "master1_o36",
+          "master1_o37",
+          "master1_o38",
+          "master1_o39",
+          "master1_o40",
+          "master1_o41",
+          "master1_o42",
+          "master1_o43",
+          "master1_o44",
+          "master1_o45",
+          "master1_o46",
+          "master1_o47",
+          "master1_o48",
+          "master1_o49",
+          "master1_o50",
+          "master1_o51",
+          "master1_o52"
+        ]
+      },
+      {
+        "id": "decorative_layout_top",
+        "type": "decoration",
+        "members": [
+          "master1_layout9_o237",
+          "master1_layout9_o238",
+          "master1_layout9_o239",
+          "master1_layout9_o240",
+          "master1_layout9_o241",
+          "master1_layout9_o242",
+          "master1_layout9_o243",
+          "master1_layout9_o244",
+          "master1_layout9_o245",
+          "master1_layout9_o246",
+          "master1_layout9_o247",
+          "master1_layout9_o248",
+          "master1_layout9_o249",
+          "master1_layout9_o250",
+          "master1_layout9_o251",
+          "master1_layout9_o252",
+          "master1_layout9_o253",
+          "master1_layout9_o254",
+          "master1_layout9_o255"
+        ],
+        "slots": [],
+        "preserve": [
+          "master1_layout9_o237",
+          "master1_layout9_o238",
+          "master1_layout9_o239",
+          "master1_layout9_o240",
+          "master1_layout9_o241",
+          "master1_layout9_o242",
+          "master1_layout9_o243",
+          "master1_layout9_o244",
+          "master1_layout9_o245",
+          "master1_layout9_o246",
+          "master1_layout9_o247",
+          "master1_layout9_o248",
+          "master1_layout9_o249",
+          "master1_layout9_o250",
+          "master1_layout9_o251",
+          "master1_layout9_o252",
+          "master1_layout9_o253",
+          "master1_layout9_o254",
+          "master1_layout9_o255"
+        ]
+      },
+      {
+        "id": "decorative_layout_right",
+        "type": "decoration",
+        "members": [
+          "master1_layout9_o258"
+        ],
+        "slots": [],
+        "preserve": [
+          "master1_layout9_o258"
+        ]
+      },
+      {
+        "id": "decorative_layout_bottom",
+        "type": "decoration",
+        "members": [
+          "master1_layout9_o235"
+        ],
+        "slots": [],
+        "preserve": [
+          "master1_layout9_o235"
+        ]
+      }
+    ],
+    "unassigned": [],
+    "patterns": [
+      {
+        "description": "The slide contains placeholder title, description, and two KPI text blocks, indicating it is intended as a reusable generation template.",
+        "evidence_ids": [
+          "s17_o709",
+          "s17_o712",
+          "s17_o710",
+          "s17_o711"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "description": "The two KPI blocks share the same visual structure: a large percentage placeholder and a smaller label placeholder within one text object.",
+        "evidence_ids": [
+          "s17_o710",
+          "s17_o711"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "description": "Branding logos and decorative graphics are inherited from the master/layout and appear fixed rather than replaceable slide content.",
+        "evidence_ids": [
+          "master1_o53",
+          "master1_layout9_o257",
+          "master1_layout9_o259",
+          "master1_layout9_o258",
+          "master1_layout9_o235",
+          "master1_o14",
+          "master1_o34",
+          "master1_layout9_o237"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "constraints": [
+      {
+        "description": "Each KPI text object stores the percentage value and label in a single paragraph, so the value and label cannot be replaced as independent paragraph slots without editing the whole object.",
+        "evidence_ids": [
+          "s17_o710",
+          "s17_o711"
+        ],
+        "confidence": 0.95
+      }
+    ],
+    "needs_review": true
+  }
+}

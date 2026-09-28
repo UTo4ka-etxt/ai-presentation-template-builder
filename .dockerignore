@@ -1,0 +1,15 @@
+.git
+.venv
+__pycache__
+*.pyc
+tmp
+output
+service_data
+assets
+previews
+semantics
+source.pptx
+template.json
+catalog.json
+checksums.json
+validation_report.json

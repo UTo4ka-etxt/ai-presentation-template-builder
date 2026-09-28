@@ -1,0 +1,10 @@
+services:
+  presentation-service:
+    build: .
+    env_file: .env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./service_data:/app/service_data
+    restart: unless-stopped
+
